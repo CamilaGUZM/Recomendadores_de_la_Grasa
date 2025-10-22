@@ -1,0 +1,25 @@
+# Archivos y carpetas locales
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Archivos de entorno y configuración
+.env
+*.log
+*.tmp
+
+# Datos sensibles o pesados (no versionar)
+Data/*.zip
+Data/*.xlsx
+Data/*.xls
+Data/*.parquet
+Data/*.pkl
+
+# Configuraciones del sistema o IDE
+.vscode/
+.idea/
+
+# Salidas o resultados temporales
+outputs/
+reports/
