@@ -1,0 +1,19 @@
+*.code-workspace
+
+# Archivos y carpetas locales
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Archivos de entorno y configuración
+.env
+*.log
+*.tmp
+
+# Configuraciones del sistema o IDE
+.vscode/
+.idea/
+
+# Salidas o resultados temporales
+outputs/
