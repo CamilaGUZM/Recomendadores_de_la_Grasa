@@ -7,6 +7,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 import streamlit as st
 import plotly.express as px
+from scripts.Recomendador_coseno import reccoseno
 
 # Configurar la página
 st.set_page_config(
@@ -42,7 +43,7 @@ def create_lubricant_from_input(input_data, df_template):
 
 def recommend_similar_lubricant(new_lubricant_data, df, preprocessor, X_processed, top_k=5):
     """Recomendar grasas similares"""
-    
+    results = reccoseno(new_lubricant_data, df, preprocessor, X_processed, top_k)
     
     return results
 
