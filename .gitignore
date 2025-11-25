@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 *.code-workspace
 
+>>>>>>> 3d11265e4b7801adb752bb22baad43c70020d97b
 # Archivos y carpetas locales
 .venv/
 __pycache__/
@@ -11,9 +14,24 @@ __pycache__/
 *.log
 *.tmp
 
+<<<<<<< HEAD
+# Datos sensibles o pesados (no versionar)
+Data/*.zip
+Data/*.xlsx
+Data/*.xls
+Data/*.parquet
+Data/*.pkl
+
+=======
+>>>>>>> 3d11265e4b7801adb752bb22baad43c70020d97b
 # Configuraciones del sistema o IDE
 .vscode/
 .idea/
 
 # Salidas o resultados temporales
+<<<<<<< HEAD
 outputs/
+reports/
+=======
+outputs/
+>>>>>>> 3d11265e4b7801adb752bb22baad43c70020d97b
