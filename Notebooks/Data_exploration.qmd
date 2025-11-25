@@ -1,0 +1,85 @@
+---
+format:
+   html:
+     toc: true
+     html-math-method: katex
+     embed-resources: true
+     self-contained-math: true
+     df-print: kable
+
+---
+
+
+```{python}
+import pandas as pd
+import numpy as np
+```
+
+
+```{python}
+df = pd.read_csv("../Data/datos_grasas_Tec.csv", encoding='latin')
+```
+
+
+```{python}
+df.head()
+```
+
+
+```{python}
+df.isnull().sum()
+```
+
+```{python}
+df.columns[df.isnull().all()].tolist()
+```
+
+```{python}
+df.dropna(axis=1, how='all', inplace = True)
+```
+
+```{python}
+df.info()
+```
+
+
+```{python}
+nan_percentage = (df.isnull().sum() / len(df)) * 100
+
+print("Percentage of NaN values per column:")
+print(nan_percentage.sort_values(ascending = False))
+```
+
+falta dropear las columnas o guardarlas en una lista
+
+---
+
+
+```{python}
+df["color"].unique()
+```
+
+cambiar signos raros
+
+
+```{python}
+df["textura"].unique()
+```
+
+
+```{python}
+df["categoria"].unique()
+```
+
+
+```{python}
+df["Penetración de Cono a 25°C, 0.1mm"]
+```
+
+tiene intérvalos
+
+
+```{python}
+objects = df.select_dtypes(include= "object", exclude=None)
+numeric = df.select_dtypes(include=np.number, exclude=None)
+```
