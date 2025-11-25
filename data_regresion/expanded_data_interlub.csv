@@ -1,0 +1,429 @@
+Aceite Base,Espesante,Grado NLGI Consistencia,Viscosidad del Aceite Base a 40°C. cSt,"Penetración de Cono a 25°C, 0.1mm","Punto de Gota, °C","Estabilidad Mecánica, %","Punto de Soldadura Cuatro Bolas, kgf","Desgaste Cuatro Bolas, mm","Carga Timken Ok, lb","Resistencia al Lavado por Agua a 80°C, %",Registro NSF,Factor de Velocidad,"Temperatura de Servicio °C, min","Temperatura de Servicio °C, max",aplicaciones,color,textura
+5,1,2.0,680.0,279.0,304.0,1.07,500.0,-99.0,60.0,0.58,-99.0,200000.0,5,220,Debido a su composiciÃ³n Ã³ptima de aceites de alta calidad y espesante de jabÃ³n complejo la grasa El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.,4,1
+2,1,1.5,460.0,300.0,304.0,2.6,900.0,0.5,70.0,3.0,-99.0,300000.0,-30,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,2.0,460.0,280.0,300.0,10.0,500.0,0.48,-99.0,3.0,-99.0,-99.0,-10,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,2.0,220.0,280.5,300.0,5.0,500.0,0.45,-99.0,3.0,-99.0,-99.0,-15,150,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,1
+2,3,1.5,680.0,295.0,260.0,6.5,620.0,0.48,50.0,1.45,-99.0,-99.0,-5,150,"El producto es ideal para la lubricaciÃ³n de mecanismos que operan en velocidades bajas, ademÃ¡s proporciona excelentes propiedades de sellado contra los medios hÃºmedos y contaminantes agresivos como sustancias alcalinas y acidas.
+@LubricaciÃ³n de equipo pesado.
+@Rodamientos sometidos a alta carga y vibraciÃ³n.
+@Palas MecÃ¡nicas y equipo mÃ³vil.
+@Cojinetes de quebradoras.
+@Acoplamientos.",7,0
+2,3,2.0,680.0,275.0,260.0,6.5,620.0,0.48,50.0,1.45,-99.0,-99.0,-5,150,"El producto es ideal para la lubricaciÃ³n de mecanismos que operan en velocidades bajas, ademÃ¡s proporciona excelentes propiedades de sellado contra los medios hÃºmedos y contaminantes agresivos como sustancias alcalinas y acidas.
+@LubricaciÃ³n de equipo pesado.
+@Rodamientos sometidos a alta carga y vibraciÃ³n.
+@Palas MecÃ¡nicas y equipo mÃ³vil.
+@Cojinetes de quebradoras.
+@Acoplamientos.",7,0
+2,2,1.0,3800.0,320.0,280.0,-99.0,500.0,-99.0,40.0,-99.0,-99.0,-99.0,-5,120,"Se recomienda en la lubricaciÃ³n de engranajes abiertos de baja velocidad como los de molinos, de hornos giratorios, asÃ­ como tambiÃ©n transmisiones abiertas de grÃºas y malacates.
+@Se recomienda tambiÃ©n para la lubricaciÃ³n de cables de acero de grÃºas en ambientes contaminados o en condiciones de salinidad.",7,0
+2,1,0.0,800.0,370.0,304.0,1.6,900.0,0.5,70.0,-99.0,-99.0,300000.0,-30,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,1.0,800.0,312.0,304.0,1.6,900.0,0.5,70.0,3.0,-99.0,300000.0,-30,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,1.5,800.0,300.0,304.0,2.6,900.0,0.5,70.0,3.0,-99.0,300000.0,-30,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,2.0,800.0,269.0,304.0,1.5,900.0,0.5,70.0,2.8,-99.0,300000.0,-8,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,3.0,800.0,248.0,304.0,3.8,900.0,0.5,70.0,2.4,-99.0,300000.0,5,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+3,1,1.0,460.0,320.0,304.0,0.8,500.0,-99.0,60.0,0.4,-99.0,-99.0,-20,190,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+3,1,2.0,460.0,280.0,304.0,0.8,500.0,-99.0,60.0,0.4,-99.0,-99.0,-20,190,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+0,1,2.0,700.0,280.5,290.0,-99.0,315.0,-99.0,60.0,-99.0,-99.0,-99.0,-15,150,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",1,0
+-99,-99,2.0,-99.0,270.0,295.0,5.0,-99.0,-99.0,-99.0,1.0,-99.0,150000.0,-10,150,"Por su acciÃ³n deslizante, lubricante y sellante su uso es muy adecuado en vÃ¡lvulas tipo de estufa, reguladores de gas y termo reguladores de gas Natural y gas L.P.",0,3
+4,2,2.0,480.0,275.0,260.0,4.0,250.0,0.6,40.0,2.0,164358.0,350000.0,-5,180,"LubricaciÃ³n de rodamientos en condiciones extremas de contaminaciÃ³n.
+@Rodamientos expuestos a media velocidad.
+@Para cojinetes lisos en baja velocidad.",3,1
+-99,6,2.0,680.0,280.0,-99.0,8.0,800.0,-99.0,-99.0,5.0,-99.0,-99.0,5,210,"Especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana a alta velocidad, en peletizadoras de madera.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.",1,0
+-99,6,2.0,680.0,240.0,304.0,9.8,315.0,-99.0,40.0,5.0,-99.0,-99.0,0,240,Lubricante de uso general para cojinetes y rodamientos de bolas o de rodillos expuestos a temperaturas hasta 240ÂºC.,0,1
+2,4,1.2,400.0,300.0,235.0,-99.0,250.0,-99.0,-99.0,-99.0,-99.0,-99.0,-25,150,"Mecanismos expuestos a medio ambiente.
+@Rodamientos de ruedas.
+@Acoplamientos.
+@Terminales de direcciÃ³n.
+@Pivotes de SuspensiÃ³n.",2,0
+0,2,0.0,220.0,460.0,110.0,-99.0,315.0,-99.0,40.0,-99.0,-99.0,300000.0,-5,160,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad, en los cuales eventualmente, se pudiera tener perdida de lubricante y este ultimo entre en contacto con los alimentos.
+@Generalmente se recomienda El producto 0, 00 y 000 para aplicarse en sistemas centralizados de lubricaciÃ³n y por inmersiÃ³n para lubricar engranes y rodamientos que asÃ­ lo requieran.",3,1
+4,2,1.0,100.0,320.0,255.0,3.2,250.0,-99.0,40.0,3.0,-99.0,900000.0,-10,160,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,2,2.0,100.0,275.0,255.0,3.2,250.0,-99.0,40.0,3.0,-99.0,900000.0,-10,160,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,2,3.0,100.0,245.0,255.0,3.2,250.0,-99.0,40.0,3.0,-99.0,750000.0,-5,160,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,-99,1.0,220.0,315.0,260.0,3.9,300.0,-99.0,40.0,2.5,-99.0,500000.0,-5,160,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto  tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos en los cuales las condiciones de contaminaciÃ³n sean extremas.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",6,1
+4,-99,2.0,220.0,270.0,270.0,6.3,300.0,-99.0,40.0,2.5,-99.0,350000.0,-5,160,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto  tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos en los cuales las condiciones de contaminaciÃ³n sean extremas.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",6,1
+4,1,1.0,100.0,325.0,304.0,1.4,500.0,0.35,40.0,0.02,154453.0,900000.0,-5,180,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+4,1,2.0,100.0,290.0,304.0,1.4,500.0,0.35,40.0,0.02,154453.0,900000.0,-5,180,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+2,1,0.0,3500.0,365.0,140.0,1.6,620.0,0.45,60.0,-99.0,-99.0,-99.0,-5,150,Es recomendado para la lubricaciÃ³n de engranes y cables de palas mecÃ¡nicas,7,4
+2,3,1.0,680.0,310.0,260.0,6.5,620.0,0.48,50.0,1.45,-99.0,200000.0,-10,150,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+2,3,1.5,680.0,300.0,260.0,6.5,620.0,0.48,50.0,1.45,-99.0,200000.0,-5,150,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+2,3,2.0,680.0,275.0,260.0,6.5,620.0,0.48,50.0,1.45,-99.0,200000.0,-5,150,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+2,3,3.0,680.0,230.0,260.0,5.2,620.0,0.48,50.0,0.32,-99.0,200000.0,5,150,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+0,5,0.0,120.0,415.0,190.0,11.0,315.0,-99.0,45.0,-99.0,-99.0,400000.0,-15,110,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+0,5,0.0,120.0,370.0,230.0,11.0,315.0,-99.0,45.0,-99.0,-99.0,400000.0,-15,110,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+0,5,1.0,120.0,315.0,235.0,6.2,315.0,-99.0,45.0,2.5,-99.0,400000.0,-15,110,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+0,5,1.5,120.0,310.0,235.0,5.8,315.0,-99.0,45.0,2.4,-99.0,400000.0,-15,110,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+0,5,2.0,120.0,276.0,235.0,5.3,315.0,-99.0,45.0,2.4,-99.0,400000.0,-15,110,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+0,5,3.0,120.0,236.0,250.0,6.0,315.0,-99.0,45.0,3.2,-99.0,350000.0,-10,120,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+2,1,0.0,1500.0,365.0,304.0,4.4,620.0,0.45,60.0,3.7,-99.0,200000.0,-5,190,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+2,1,1.5,1500.0,300.0,304.0,1.0,620.0,0.45,60.0,0.3,-99.0,200000.0,-5,190,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+2,1,2.0,1500.0,280.0,304.0,1.0,620.0,0.45,60.0,0.3,-99.0,200000.0,-5,190,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+-99,4,2.0,320.0,270.0,304.0,2.1,900.0,0.4,60.0,1.2,-99.0,300000.0,-15,150,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.",7,1
+1,4,0.0,220.0,360.0,200.0,8.0,315.0,0.5,45.0,4.0,-99.0,-99.0,-20,90,Para  lubricar mecanismos de cerraduras sujetas a fricciÃ³n deslizante con componentes metÃ¡licos y plÃ¡sticos,1,2
+1,4,1.0,220.0,320.0,280.0,5.0,315.0,0.5,45.0,3.0,-99.0,-99.0,-20,90,Para  lubricar mecanismos de cerraduras sujetas a fricciÃ³n deslizante con componentes metÃ¡licos y plÃ¡sticos,1,2
+1,4,2.0,220.0,277.5,280.0,5.0,315.0,0.5,45.0,3.0,-99.0,-99.0,-20,90,Para  lubricar mecanismos de cerraduras sujetas a fricciÃ³n deslizante con componentes metÃ¡licos y plÃ¡sticos,1,2
+4,-99,1.0,40.0,325.0,-99.0,-99.0,250.0,-99.0,-99.0,-99.0,-99.0,1000000.0,-10,160,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos.",3,1
+4,-99,2.0,40.0,280.0,-99.0,-99.0,250.0,-99.0,-99.0,-99.0,153194.0,1000000.0,-10,160,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos.",3,1
+4,-99,3.0,40.0,235.0,-99.0,-99.0,250.0,-99.0,-99.0,-99.0,-99.0,900000.0,-5,160,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos.",3,1
+5,0,1.0,220.0,320.0,304.0,8.0,315.0,0.5,40.0,3.0,141297.0,750000.0,-5,160,"LubricaciÃ³n de rodamientos, bujes y otros elementos en general en la industria alimenticia donde existe la posibilidad de contacto incidental con alimentos.
+@LubricaciÃ³n guÃ­as, correderas, bujes y elementos mecÃ¡nicos de la industria de inyecciÃ³n en plÃ¡stico.",3,1
+5,0,1.5,220.0,300.0,304.0,8.0,315.0,0.5,40.0,3.0,141298.0,750000.0,-5,160,"LubricaciÃ³n de rodamientos, bujes y otros elementos en general en la industria alimenticia donde existe la posibilidad de contacto incidental con alimentos.
+@LubricaciÃ³n guÃ­as, correderas, bujes y elementos mecÃ¡nicos de la industria de inyecciÃ³n en plÃ¡stico.",3,1
+4,1,2.0,106.32022139824863,300.9578737649667,300.3893789203395,1.4432684029542362,510.55372225025496,0.36720051255410563,40.0,0.020105505304183233,153956.29240915098,933185.8155610869,-4,175,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+0,5,2.0,122.12029714292969,305.883777446201,241.873803501045,6.11013160747373,298.36902058389734,-99.0,45.0,2.4328321952908776,-99.0,381576.69060890994,-20,110,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+3,1,3.0,391.3605400828234,323.55416674476885,312.97602700646235,0.8104306217717849,480.2128211471029,-99.0,60.0,0.4151231430446137,-99.0,-99.0,-24,185,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+4,2,1.5,88.00416995319428,327.04120845194274,250.285567970919,3.2819527824810657,238.9977288299982,-99.0,40.0,2.9649914464567995,-99.0,956923.075741079,-14,156,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+0,5,1.0,136.16653256346206,302.32529259840317,235.85217150397068,6.432665397519164,317.2318575683914,-99.0,45.0,2.6152276127889262,-99.0,389772.9713614603,-10,111,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+4,2,1.0,496.50101540418467,269.6430972560506,261.7266695186426,4.124780637993884,228.3212737093942,0.541531347751041,40.0,1.98596485399474,-99.0,318873.84962756775,-6,181,"LubricaciÃ³n de rodamientos en condiciones extremas de contaminaciÃ³n.
+@Rodamientos expuestos a media velocidad.
+@Para cojinetes lisos en baja velocidad.",3,1
+3,1,0.0,414.5240938768794,291.96902583539304,295.5587525077539,0.8058573294121782,510.6726118446434,-99.0,60.0,0.41661523308257364,-99.0,-99.0,-24,190,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+4,1,0.0,111.80791708773418,338.09648502495037,297.32899047093844,1.456295904902117,509.6715179941427,0.36871328857233393,40.0,0.019921230551550716,-99.0,876340.4865738701,-2,177,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+4,2,2.5,110.68000250916958,326.3763342985874,254.15705773097406,3.085329142850071,226.477287011367,-99.0,40.0,3.100011683617347,-99.0,948655.3370487178,-12,162,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+2,3,3.0,744.396450796492,323.79766084436926,257.688264455083,6.271497079276627,574.3181919254822,0.5236217827255992,50.0,1.5073722083480539,-99.0,195380.34851894443,-15,148,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+2,1,3.0,1328.068077774012,287.91021914655215,308.07317922596366,0.9765805985039264,631.600144827374,0.4209313475890082,60.0,0.3134560483318398,-99.0,190610.3959510857,-7,188,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+2,1,2.5,1524.5304599012686,288.96626245754135,300.3613066898259,0.9719362230297446,599.6563876600301,0.4785375354556594,60.0,0.30231739404255514,-99.0,212296.39822017567,-9,193,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+-99,6,1.0,665.8354152374317,282.6350296369995,-99.0,8.053807761387127,847.0739955457052,-99.0,-99.0,5.24304498579513,-99.0,-99.0,10,207,"Especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana a alta velocidad, en peletizadoras de madera.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.",1,0
+4,-99,1.5,39.161656413165176,289.0813467087304,-99.0,-99.0,257.3851357478373,-99.0,-99.0,-99.0,129407.1967407513,939070.3424758008,-9,160,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos.",3,1
+2,1,1.5,1283.8862622166805,283.1011822102437,309.1103522028323,1.0248897407432331,564.5140310923672,0.4069710791854636,60.0,0.3079597869743317,-99.0,206972.8422001236,-3,194,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+4,1,1.5,114.98697958106318,283.35800435912427,295.26357439998145,1.4550248379007211,545.2821507895543,0.37376335998913796,40.0,0.02058509529598115,-99.0,907348.7707114152,-6,182,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+0,2,2.5,201.2390529214369,479.5944958016438,108.25440275971778,-99.0,346.24074063308643,-99.0,40.0,-99.0,-99.0,328210.4814530585,-4,163,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad, en los cuales eventualmente, se pudiera tener perdida de lubricante y este ultimo entre en contacto con los alimentos.
+@Generalmente se recomienda El producto 0, 00 y 000 para aplicarse en sistemas centralizados de lubricaciÃ³n y por inmersiÃ³n para lubricar engranes y rodamientos que asÃ­ lo requieran.",3,1
+2,3,3.0,726.4943205482296,267.6619307786568,260.04819759748676,6.240371114796364,630.5464399660015,0.4429894285519344,50.0,1.4393988216666787,-99.0,-99.0,-1,146,"El producto es ideal para la lubricaciÃ³n de mecanismos que operan en velocidades bajas, ademÃ¡s proporciona excelentes propiedades de sellado contra los medios hÃºmedos y contaminantes agresivos como sustancias alcalinas y acidas.
+@LubricaciÃ³n de equipo pesado.
+@Rodamientos sometidos a alta carga y vibraciÃ³n.
+@Palas MecÃ¡nicas y equipo mÃ³vil.
+@Cojinetes de quebradoras.
+@Acoplamientos.",7,0
+3,1,1.0,432.8589377879145,284.52892520804926,298.82445737722446,0.7802290261595128,514.4355148720874,-99.0,60.0,0.39789329075780944,-99.0,-99.0,-21,186,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+4,2,1.5,112.94960884363456,265.68726837201785,255.39752387510862,3.0984565317913084,267.92222974706044,-99.0,40.0,3.04933828554937,-99.0,835832.4554127551,-15,164,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+3,1,1.0,503.77558698663546,292.95168194577457,311.8036659527791,0.8140629600206557,487.84376785118417,-99.0,60.0,0.41051032956785605,-99.0,-99.0,-16,192,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+5,0,2.5,251.11484896872008,286.5114495807182,307.3343200616063,7.728657068396149,334.8671419821594,0.4776993661197834,40.0,2.972737921965364,109515.91248742183,793015.8343541748,-8,158,"LubricaciÃ³n de rodamientos, bujes y otros elementos en general en la industria alimenticia donde existe la posibilidad de contacto incidental con alimentos.
+@LubricaciÃ³n guÃ­as, correderas, bujes y elementos mecÃ¡nicos de la industria de inyecciÃ³n en plÃ¡stico.",3,1
+-99,4,1.5,316.7494548410651,277.3048519868425,305.15068177867806,2.1239376901833027,866.1004619101121,0.38053121069022744,60.0,1.2368435526357562,-99.0,273552.24713110813,-13,151,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.",7,1
+4,1,2.5,89.64530342519006,337.2680430368222,301.8772136114626,1.341983162787506,466.7404535436438,0.33257155959114704,40.0,0.020543782130907462,-99.0,860766.1913418585,0,185,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+1,4,1.0,249.38397844754232,310.88902318109075,280.6446271171828,5.156861014586306,292.35273992773824,0.46913285815318817,45.0,3.0596534993655373,-99.0,-99.0,-22,89,Para  lubricar mecanismos de cerraduras sujetas a fricciÃ³n deslizante con componentes metÃ¡licos y plÃ¡sticos,1,2
+2,1,0.0,712.8418381904381,321.2028586265359,297.06151060126734,1.6091293978790024,944.1939175706286,0.5145191333814341,70.0,3.00893507045207,-99.0,316940.814790428,-30,148,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,4,2.0,347.9982834399216,299.7807388443007,235.03732376690886,-99.0,244.75935140208753,-99.0,-99.0,-99.0,-99.0,-99.0,-28,153,"Mecanismos expuestos a medio ambiente.
+@Rodamientos de ruedas.
+@Acoplamientos.
+@Terminales de direcciÃ³n.
+@Pivotes de SuspensiÃ³n.",2,0
+4,2,1.5,105.18592019632793,314.72116339065525,254.74511829156395,3.077990866943169,274.8489440351353,-99.0,40.0,3.0072977420144893,-99.0,827811.4893595666,-14,163,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,2,0.0,90.24655860133906,331.70063872004937,247.98060520563115,3.165785495855543,262.4374811589041,-99.0,40.0,2.863569914467221,-99.0,918072.4961553672,-7,164,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,1,1.0,111.63465736182263,336.71201895224493,311.6786534290901,1.3626918452089847,521.2990016429856,0.330832431578222,40.0,0.020517346152580437,-99.0,845251.1091024281,-5,177,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+4,2,0.0,88.12015020640376,334.93475399496344,248.93265360136738,3.246651260169371,251.42534965076635,-99.0,40.0,3.1231387168959537,-99.0,938980.2474895492,-14,162,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+2,1,2.5,397.1542342445238,285.2729155724256,298.49104990313805,9.930716898163698,477.40574885721026,0.4456992067202391,-99.0,2.9079391310157034,-99.0,-99.0,-13,153,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+4,2,2.5,103.79710120874242,248.679780865643,249.94545700287088,3.192375164860023,267.8647862068683,-99.0,40.0,3.0595517517517634,-99.0,809812.0984050728,-9,158,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+0,5,1.5,118.60261258576648,295.62880930434517,234.87820817866253,5.993367351257965,287.61596481968354,-99.0,45.0,2.386755633715321,-99.0,396178.94407526276,-18,115,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+5,1,1.5,593.9284270098323,286.6599089912673,308.02090640716233,1.122129636451001,483.55389453371146,-99.0,60.0,0.5755653547179248,-99.0,205176.85184484083,5,225,Debido a su composiciÃ³n Ã³ptima de aceites de alta calidad y espesante de jabÃ³n complejo la grasa El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.,4,1
+4,-99,1.5,243.08663211238212,329.66509176834103,255.15937909531186,3.96856288343916,317.20288826688517,-99.0,40.0,2.503105558131118,-99.0,479781.0815685738,-10,161,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto  tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos en los cuales las condiciones de contaminaciÃ³n sean extremas.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",6,1
+0,5,1.5,109.4193016428865,272.15522413017317,233.5215809958413,5.103163970491956,326.5697327455059,-99.0,45.0,2.3476087556550036,-99.0,411341.1764216967,-13,112,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+4,2,2.0,97.02154529904534,331.79425346856317,251.2419685737086,3.35825385421327,253.0072616821577,-99.0,40.0,2.983722147196976,-99.0,899917.6203850717,-11,164,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+5,0,3.0,251.26314376426072,321.29247620501354,306.5060443129567,7.627155247578537,331.7243313214579,0.4992255695503763,40.0,2.8928561849797014,-99.0,723515.5095643423,-10,160,"LubricaciÃ³n de rodamientos, bujes y otros elementos en general en la industria alimenticia donde existe la posibilidad de contacto incidental con alimentos.
+@LubricaciÃ³n guÃ­as, correderas, bujes y elementos mecÃ¡nicos de la industria de inyecciÃ³n en plÃ¡stico.",3,1
+2,3,1.5,730.3317113308339,281.0392467655388,256.94077439157616,6.556622892681414,615.4476903674104,0.45677657738497207,50.0,1.4926352378070833,-99.0,-99.0,-1,150,"El producto es ideal para la lubricaciÃ³n de mecanismos que operan en velocidades bajas, ademÃ¡s proporciona excelentes propiedades de sellado contra los medios hÃºmedos y contaminantes agresivos como sustancias alcalinas y acidas.
+@LubricaciÃ³n de equipo pesado.
+@Rodamientos sometidos a alta carga y vibraciÃ³n.
+@Palas MecÃ¡nicas y equipo mÃ³vil.
+@Cojinetes de quebradoras.
+@Acoplamientos.",7,0
+3,1,1.0,495.06501380810795,285.0592188389248,310.7513503869533,0.7764780158743583,450.1284705883834,-99.0,60.0,0.40709624477183015,-99.0,-99.0,-18,187,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+3,1,1.0,506.02957084237954,330.13825436730724,297.8839776298829,0.793198835200454,478.29395436271295,-99.0,60.0,0.41637423428927844,-99.0,-99.0,-24,186,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+5,0,2.5,198.75081624109885,313.3961892648793,295.40191321739917,8.031058880877287,343.2904164492532,0.45773813663001917,40.0,2.945932340499288,-99.0,804039.7226908926,-2,160,"LubricaciÃ³n de rodamientos, bujes y otros elementos en general en la industria alimenticia donde existe la posibilidad de contacto incidental con alimentos.
+@LubricaciÃ³n guÃ­as, correderas, bujes y elementos mecÃ¡nicos de la industria de inyecciÃ³n en plÃ¡stico.",3,1
+2,1,3.0,237.25860428363094,267.37938391849906,294.5928426718541,5.082845030824302,532.3991318398307,0.4354523624698355,-99.0,2.882013691897819,-99.0,-99.0,-12,152,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,1
+2,1,0.0,1289.5531929465928,306.48758159227884,304.1785347619567,1.0043786285456726,671.5083429214119,0.4081461178847272,60.0,0.28894342066590484,-99.0,209788.2695969946,-10,187,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+-99,4,1.5,290.75474339981673,277.5188089620727,298.5861373638702,2.1342505799140494,967.6188588045491,0.40188091159773914,60.0,1.1787406211872204,-99.0,304730.9777439702,-14,151,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.",7,1
+0,5,2.0,111.51844511549226,374.096645167545,224.96281932292408,10.779912182817169,310.6873526916773,-99.0,45.0,-99.0,-99.0,376545.0885522634,-20,115,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+4,2,1.5,544.4150937598648,278.2454601244768,255.5143616738401,3.926034148013377,265.9987539084433,0.6257323575333281,40.0,1.985180924830256,-99.0,326767.3303563361,-9,185,"LubricaciÃ³n de rodamientos en condiciones extremas de contaminaciÃ³n.
+@Rodamientos expuestos a media velocidad.
+@Para cojinetes lisos en baja velocidad.",3,1
+2,1,1.5,1649.624817437435,313.0367041528986,307.7227917593546,0.9640954246910729,586.5481658418465,0.432275524361048,60.0,0.31390030095925797,-99.0,193256.42293496686,-1,185,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+0,5,2.0,137.32690968174185,269.87618521278574,232.68353131281086,5.524938523364971,286.324201791373,-99.0,45.0,2.4193903424832452,-99.0,433113.6734018168,-17,109,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+0,1,2.5,717.0385760959615,287.8895056243855,294.75450682792473,-99.0,314.1827306533216,-99.0,60.0,-99.0,-99.0,-99.0,-11,152,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",1,0
+2,1,1.0,518.0181308099378,283.37398717451185,292.99366924280247,9.513826318668595,529.8130782918954,0.4533955673976134,-99.0,3.047083596227093,-99.0,-99.0,-8,148,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,2.5,1496.750394919915,311.2505234596523,298.09720221718624,0.9574972443586179,558.0760730065408,0.4278070657734202,60.0,0.2996968254736567,-99.0,197172.59265283588,-10,188,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+0,2,3.0,219.05574357261858,481.4599017901751,107.27995829259177,-99.0,343.53212880053115,-99.0,40.0,-99.0,-99.0,277621.0537515313,0,165,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad, en los cuales eventualmente, se pudiera tener perdida de lubricante y este ultimo entre en contacto con los alimentos.
+@Generalmente se recomienda El producto 0, 00 y 000 para aplicarse en sistemas centralizados de lubricaciÃ³n y por inmersiÃ³n para lubricar engranes y rodamientos que asÃ­ lo requieran.",3,1
+2,1,1.0,738.1143721548692,303.26625034315043,297.1507007954299,2.594562284486722,970.459192847092,0.49643824850307017,70.0,3.009889051803245,-99.0,286028.9702529773,-28,154,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+0,1,0.0,660.4848776532366,279.5745362597354,284.3487701773385,-99.0,311.7217212494398,-99.0,60.0,-99.0,-99.0,-99.0,-13,148,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",1,0
+0,2,0.0,221.6441265337402,444.22412112287975,111.49777286947543,-99.0,313.6223098016575,-99.0,40.0,-99.0,-99.0,322649.31945783494,-6,162,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad, en los cuales eventualmente, se pudiera tener perdida de lubricante y este ultimo entre en contacto con los alimentos.
+@Generalmente se recomienda El producto 0, 00 y 000 para aplicarse en sistemas centralizados de lubricaciÃ³n y por inmersiÃ³n para lubricar engranes y rodamientos que asÃ­ lo requieran.",3,1
+4,1,2.5,112.89178496771417,332.07141317632386,312.60812045601125,1.4610552434267963,454.64853307910494,0.37007303823894655,40.0,0.019810492373704053,-99.0,961489.2830580762,-9,180,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+4,1,1.5,101.71838832802582,311.1355328726925,298.0474900610272,1.384007554199869,451.73364923075405,0.35024058237847777,40.0,0.02091387580594354,-99.0,914359.9623981462,-5,183,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+2,1,2.0,3985.3242377613055,360.53474499530785,142.66956670599944,1.5916202907706571,622.7304454142486,0.47265353824070666,60.0,-99.0,-99.0,-99.0,-4,150,Es recomendado para la lubricaciÃ³n de engranes y cables de palas mecÃ¡nicas,7,4
+2,3,2.5,629.8961414618975,313.2641664767806,253.98784082320537,6.3894300791856224,628.2871593699474,0.44657093022447314,50.0,1.4578102242163136,-99.0,204389.7947989826,-9,152,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+2,3,0.0,647.8883119646433,322.055550428011,261.8663803808667,6.364455787758964,674.1281823771501,0.43694059027179033,50.0,1.382368448662648,-99.0,207659.98842617613,-6,151,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+3,1,0.0,501.2400792030062,309.2673328525531,306.0750748936227,0.815827214859588,483.3348469804585,-99.0,60.0,0.39659632986570376,-99.0,-99.0,-18,185,"El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecÃ¡nicas debido a su capacidad de carga y propiedades de extrema presiÃ³n inherentes.
+@Para la lubricaciÃ³n de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
+@En las industrias minera, siderÃºrgica, papelera, cementera, automotriz, embotelladora, etc.
+@La versiÃ³n El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",5,1
+4,2,0.0,103.21084584504672,247.81795499180467,258.51421457790633,3.264839695929582,261.16923856377207,-99.0,40.0,2.8903822857514756,-99.0,741225.3193376252,-10,158,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,-99,1.0,38.82245151851127,242.38868098858947,-99.0,-99.0,266.12071706087846,-99.0,-99.0,-99.0,-99.0,876844.2243747967,-3,158,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos.",3,1
+2,1,1.0,831.3716824882865,302.41097794310264,303.8559038352258,2.551918232553966,944.575268348757,0.46962061738463723,70.0,2.858442218330933,-99.0,308489.4030641018,-35,153,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+-99,-99,2.0,-99.0,268.3891297014968,287.310435986569,5.050328128148251,-99.0,-99.0,-99.0,1.025158327496315,-99.0,163322.37619226883,-13,150,"Por su acciÃ³n deslizante, lubricante y sellante su uso es muy adecuado en vÃ¡lvulas tipo de estufa, reguladores de gas y termo reguladores de gas Natural y gas L.P.",0,3
+2,1,2.5,228.49371726982545,281.4115127028779,297.164046070936,4.9268183676334045,545.2039846676857,0.4222746172159116,-99.0,3.0763829343448226,-99.0,-99.0,-15,146,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,1
+2,1,1.0,1309.1132187858493,380.8699584706758,296.4468798083867,4.191804983421826,566.1021764399337,0.44172310078553884,60.0,3.8635055878986133,-99.0,212951.62120581174,-4,186,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",0,0
+1,4,1.0,219.0489295259194,356.72079407405255,204.83908308083244,8.079888677006258,306.3670784394225,0.487741266209458,45.0,3.971264514984208,-99.0,-99.0,-18,92,Para  lubricar mecanismos de cerraduras sujetas a fricciÃ³n deslizante con componentes metÃ¡licos y plÃ¡sticos,1,2
+0,1,1.0,664.6795555356499,290.93902529018754,293.6733542132554,-99.0,304.8091587961883,-99.0,60.0,-99.0,-99.0,-99.0,-17,149,"Rodamientos expuestos a alta temperatura y cargas mecÃ¡nicas.
+@Rodamientos de trenes de laminado de metales.
+@Rodamientos en condiciones de extremo lavado por agua.",1,0
+-99,-99,1.5,-99.0,258.08670692320356,302.3165548545984,4.800875694607122,-99.0,-99.0,-99.0,0.9972420740463009,-99.0,145460.11995302673,-7,149,"Por su acciÃ³n deslizante, lubricante y sellante su uso es muy adecuado en vÃ¡lvulas tipo de estufa, reguladores de gas y termo reguladores de gas Natural y gas L.P.",0,3
+2,4,1.0,370.1618049139832,309.6405063892833,228.1111674662192,-99.0,239.180058935281,-99.0,-99.0,-99.0,-99.0,-99.0,-26,147,"Mecanismos expuestos a medio ambiente.
+@Rodamientos de ruedas.
+@Acoplamientos.
+@Terminales de direcciÃ³n.
+@Pivotes de SuspensiÃ³n.",2,0
+2,3,0.0,668.770237597729,299.59644336988674,261.09751710483164,6.707668857006351,587.6733945502106,0.5071102701659357,50.0,1.4973161381329232,-99.0,185769.88687724518,-12,151,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+0,5,2.0,108.50981052655189,280.2960437897936,229.64321616213846,5.039894050203696,288.12057723613145,-99.0,45.0,2.367540471548425,-99.0,396867.2669246419,-10,107,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+-99,6,1.0,677.358704352099,243.3145315004022,305.03640175157346,9.423478367370171,338.63702899691935,-99.0,40.0,5.057483001416957,-99.0,-99.0,0,239,Lubricante de uso general para cojinetes y rodamientos de bolas o de rodillos expuestos a temperaturas hasta 240ÂºC.,0,1
+4,2,1.5,466.89876698571777,268.7269769913384,256.1607793861747,3.968897822746299,243.59257135075794,0.6197134347167136,40.0,2.0455150914524016,187909.4062147455,365515.52551857603,-8,181,"LubricaciÃ³n de rodamientos en condiciones extremas de contaminaciÃ³n.
+@Rodamientos expuestos a media velocidad.
+@Para cojinetes lisos en baja velocidad.",3,1
+0,5,0.0,124.2564967082805,226.04966507553564,244.8328020390774,5.932788357991903,311.02939598156365,-99.0,45.0,3.146280668114122,-99.0,357311.6570732386,-15,121,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+2,3,1.5,586.7565376900217,264.80781751461967,260.90015964014447,6.503853321225497,572.6799147027723,0.46756811925398895,50.0,1.3825109363047108,-99.0,-99.0,-10,154,"El producto es ideal para la lubricaciÃ³n de mecanismos que operan en velocidades bajas, ademÃ¡s proporciona excelentes propiedades de sellado contra los medios hÃºmedos y contaminantes agresivos como sustancias alcalinas y acidas.
+@LubricaciÃ³n de equipo pesado.
+@Rodamientos sometidos a alta carga y vibraciÃ³n.
+@Palas MecÃ¡nicas y equipo mÃ³vil.
+@Cojinetes de quebradoras.
+@Acoplamientos.",7,0
+4,2,1.0,90.489725576289,235.78835549441933,250.83977069219333,3.234883888654362,272.1970913538283,-99.0,40.0,2.864108764090163,-99.0,723005.4910345946,-2,161,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,1,2.0,102.00548828886828,323.87961691587424,300.4873452508517,1.3871765209556153,475.4938723958507,0.3407225934280348,40.0,0.019996015730323814,-99.0,965015.6459736425,0,185,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+0,5,1.0,119.56346800483648,328.6299703851134,239.3517834222537,6.071107497892798,342.22102932282127,-99.0,45.0,2.499057043053413,-99.0,367611.0701785925,-13,112,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+2,1,1.0,915.5143965504077,267.15427687702885,296.5255204699823,1.4618460455867999,960.9987107397917,0.471557331030248,70.0,2.929457772169977,-99.0,314279.3845743571,-6,147,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+2,1,1.5,3913.983919159048,357.7126644775597,139.3498936264819,1.5581555616539178,630.0342553086136,0.43035924825532246,60.0,-99.0,-99.0,-99.0,-6,146,Es recomendado para la lubricaciÃ³n de engranes y cables de palas mecÃ¡nicas,7,4
+4,-99,2.5,44.693310919302924,231.4172436630618,-99.0,-99.0,269.42167505655596,-99.0,-99.0,-99.0,-99.0,840201.7445036148,-1,162,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos.",3,1
+5,0,1.0,213.3585337882522,307.122875610425,307.76737329872145,8.208397856294239,324.44215972971955,0.46914028178422706,40.0,2.893050697468376,-99.0,774482.1123131621,-8,165,"LubricaciÃ³n de rodamientos, bujes y otros elementos en general en la industria alimenticia donde existe la posibilidad de contacto incidental con alimentos.
+@LubricaciÃ³n guÃ­as, correderas, bujes y elementos mecÃ¡nicos de la industria de inyecciÃ³n en plÃ¡stico.",3,1
+4,2,1.5,114.84667659799217,320.16008826311173,261.7902270895597,3.081662612441564,263.3782186874215,-99.0,40.0,3.033072878501665,-99.0,842627.3651699998,-11,160,"El producto estÃ¡ especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos, es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",3,1
+4,1,2.5,113.29948984799323,299.6025906888872,297.0679448351697,1.4518031783908263,465.9543757102921,0.35816937731687204,40.0,0.01905066344223797,-99.0,874361.7799619238,-2,183,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+1,4,3.0,231.87852496917128,323.6081369714557,282.68011203858805,5.005472521555908,291.4793503240084,0.5229708671113615,45.0,2.856387930132347,-99.0,-99.0,-22,86,Para  lubricar mecanismos de cerraduras sujetas a fricciÃ³n deslizante con componentes metÃ¡licos y plÃ¡sticos,1,2
+0,5,1.5,109.37224258386877,312.0389568229671,238.69129074291388,6.012345159241892,285.4226334662656,-99.0,45.0,2.557172323799677,-99.0,427094.56307644985,-18,105,"El producto estÃ¡n formuladas para satisfacer en forma general la lubricaciÃ³n de rodamientos, cojinetes lisos y mecanismos en lubricaciÃ³n de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcciÃ³n, en transportadores, montacargas, imprentas, motores elÃ©ctricos, mÃ¡quinas-herramientas, etc.",1,1
+-99,6,1.0,637.5151484305951,230.39133779850678,312.35484207545807,9.678282301722609,323.6304314096727,-99.0,40.0,4.850518398288933,-99.0,-99.0,2,241,Lubricante de uso general para cojinetes y rodamientos de bolas o de rodillos expuestos a temperaturas hasta 240ÂºC.,0,1
+4,1,0.0,111.63450549197943,314.95968850884196,296.77075877926796,1.3875695717269196,542.3608700653666,0.3269269644590861,40.0,0.019476334482470447,-99.0,945984.4399309214,-3,180,"Especialmente diseÃ±ada para la lubricaciÃ³n de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@Cuenta con un excelente desempeÃ±o en la lubricaciÃ³n de rodamientos, guÃ­as, correderas, bujes, engranes pequeÃ±os y elementos mecÃ¡nicos.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",1,1
+2,1,2.5,448.5570235142058,301.87917205868126,301.61207294233174,2.50263658588262,935.6600435683414,0.4655897094666826,70.0,2.9174727839874377,-99.0,279452.82957496995,-27,149,"LubricaciÃ³n centralizada de equipo pesado.
+@Chasis y sistemas centralizados en palas mecÃ¡nicas.
+@Quinta rueda en camiones de carga.
+@Rodamientos expuestos a alta carga y vibraciÃ³n.
+@Cojinetes de quebradoras de cono.",7,0
+-99,6,3.0,622.9081576980652,248.86167380743694,309.43721049580193,9.852680417983152,338.15233370185115,-99.0,40.0,4.900833990381155,-99.0,-99.0,-5,238,Lubricante de uso general para cojinetes y rodamientos de bolas o de rodillos expuestos a temperaturas hasta 240ÂºC.,0,1
+2,3,1.5,753.477901910099,295.04616922247067,255.75199924219856,6.579227812701729,565.9247035439548,0.44958755944537904,50.0,1.4626005578608225,-99.0,201082.5405703847,-9,154,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+1,4,1.0,249.82710601163814,323.1947869894615,281.9688045878392,5.193985150982584,300.0520572828533,0.4947536916301461,45.0,3.143497370492408,-99.0,-99.0,-17,94,Para  lubricar mecanismos de cerraduras sujetas a fricciÃ³n deslizante con componentes metÃ¡licos y plÃ¡sticos,1,2
+4,-99,1.0,45.18354272532768,324.81203378252496,-99.0,-99.0,231.74958147736155,-99.0,-99.0,-99.0,-99.0,1019176.9281743028,-12,162,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos.",3,1
+2,1,2.5,3300.6984588209853,363.99229160271324,140.62455594003586,1.5968252784785324,613.7736762470116,0.44966614877017086,60.0,-99.0,-99.0,-99.0,-9,151,Es recomendado para la lubricaciÃ³n de engranes y cables de palas mecÃ¡nicas,7,4
+2,3,2.0,704.3366811358736,235.15403227563831,252.82850941305946,5.11133418746707,633.2684873257384,0.5091556064085365,50.0,0.33095462723029767,-99.0,214076.03039980115,2,151,"LubricaciÃ³n de rodamientos en:
+@Procesos de laminaciÃ³n en caliente y frio.
+@MÃ¡quinas de tratamiento hÃºmedo textil.
+@Secadoras de papel y cartÃ³n.
+@Procesos de decapado.",1,0
+4,-99,1.5,201.47143743408287,307.1497889574417,256.4316917669851,3.8547946053890394,316.5253193697268,-99.0,40.0,2.394883189291499,-99.0,522256.51509303786,-5,158,"El producto esta especialmente diseÃ±ada para la lubricaciÃ³n de rodamientos de mediana y baja velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
+@El producto  tiene excelente desempeÃ±o en la lubricaciÃ³n de guÃ­as, correderas, bujes y elementos mecÃ¡nicos en los cuales las condiciones de contaminaciÃ³n sean extremas.
+@El producto es poco reactiva y totalmente neutra a materiales orgÃ¡nicos e inorgÃ¡nicos, metales ferrosos, blandos, plÃ¡sticos y cauchos.",6,1
