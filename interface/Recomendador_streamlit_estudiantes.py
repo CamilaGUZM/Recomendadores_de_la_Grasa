@@ -35,7 +35,7 @@ def load_and_preprocess_data():
             ("To change unkown data to zeros", UnknownToZero("Grado NLGI Consistencia")),
             ("To fix ranges and single values", FixRanges("Penetración de Cono a 25°C, 0.1mm")),
             ...,
-            ('MinMax', ColumnTransformer(transformers=[('MinMax', MinMaxScaler(), slice(1,None))],remainder="passthrough"))
+            ('MinMax', ColumnTransformer(transformers=[('MinMax', MinMaxScaler(), slice(1,None))]))
         ])
         X_processed=preprocessor.fit_transform(df)
         
@@ -59,7 +59,8 @@ def create_lubricant_from_input(input_data, df_template):
 
 def recommend_similar_lubricant(new_lubricant_data, df, preprocessor, X_processed, top_k=5):
     """Recomendar grasas similares"""
-    results = reccoseno(new_lubricant_data, df, preprocessor, X_processed, top_k)
+    # Here new_lubricant_data will be transform
+    results = reccoseno(new_lubricant_processed, df, X_processed, top_k)
     
     return results
 
