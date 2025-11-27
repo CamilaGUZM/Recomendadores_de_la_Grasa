@@ -1,6 +1,4 @@
 
-
-
 import pandas as pd
 import numpy as np
 
@@ -16,6 +14,8 @@ import plotly.express as px
 
 from scripts.Recomendador_coseno import reccoseno
 from scripts.transformers_JuanPablo import CheckColumnNames,UnknownToZero,FixRanges
+from scripts.transformer_Alfredo import FillNaNsWithCeros
+from scripts.transformers_Demian import OneHotCodificador
 
 # Configurar la página
 st.set_page_config(
@@ -30,15 +30,20 @@ def load_and_preprocess_data():
     try:
         # Cargar datos
         df = pd.read_csv("data/datos_grasas_Tec.csv", encoding="latin1")
+
+        categorical_columns = ["Aceite Base","Espesante","Clasificacion ISO 6743-9","color","textura"]
         preprocessor = Pipeline(steps=[
             ("To have columns names needed", CheckColumnNames()),
             ("To change unkown data to zeros", UnknownToZero("Grado NLGI Consistencia")),
             ("To fix ranges and single values", FixRanges("Penetración de Cono a 25°C, 0.1mm")),
             ...,
+            ("OneHot_categoricals", OneHotCodificador(columns=categorical_cols,drop_original=True,dtype=int)),
+            ("To fill NaNs with zeros", FillNaNsWithCeros()),
+            ...,
             ('MinMax', ColumnTransformer(transformers=[('MinMax', MinMaxScaler(), slice(1,None))]))
         ])
         X_processed=preprocessor.fit_transform(df)
-        
+
         return df, preprocessor, X_processed, numeric_cols, categorical_cols
         
     except Exception as e:
