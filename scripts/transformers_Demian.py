@@ -1,15 +1,7 @@
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
 
-
 class OneHotCodificador(BaseEstimator, TransformerMixin):
-    """
-    Transformer personalizado para aplicar one-hot encoding
-    a una lista de columnas categóricas, replicando la función
-    `codificador` del notebook original, pero de forma escalable
-    y compatible con pipelines de sklearn.
-    """
-
     def __init__(self, columns=None, drop_original=True, dtype=int, prefix_sep="_"):
         self.columns = columns
         self.drop_original = drop_original
