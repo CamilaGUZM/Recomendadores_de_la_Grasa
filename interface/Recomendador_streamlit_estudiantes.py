@@ -16,6 +16,7 @@ from scripts.Recomendador_coseno import reccoseno
 from scripts.transformers_JuanPablo import CheckColumnNames,UnknownToZero,FixRanges
 from scripts.transformer_Alfredo import FillNaNsWithCeros
 from scripts.transformers_Demian import OneHotCodificador
+from scripts.transformer_Gonzalo import VectorizarTexto
 
 # Configurar la página
 st.set_page_config(
@@ -39,7 +40,10 @@ def load_and_preprocess_data():
             ...,
             ("OneHot_categoricals", OneHotCodificador(columns=categorical_cols,drop_original=True,dtype=int)),
             ("To fill NaNs with zeros", FillNaNsWithCeros()),
-            ...,
+            ("Vectorizar subtitulo", VectorizarTexto("subtitulo")),
+            ("Vectorizar descripcion", VectorizarTexto("descripcion")),
+            ("Vectorizar beneficios", VectorizarTexto("beneficios")),
+            ("Vectorizar aplicaciones", VectorizarTexto("aplicaciones")),
             ('MinMax', ColumnTransformer(transformers=[('MinMax', MinMaxScaler(), slice(1,None))]))
         ])
         X_processed=preprocessor.fit_transform(df)
