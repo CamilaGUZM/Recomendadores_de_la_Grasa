@@ -1,13 +1,22 @@
+
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
+
+from sklearn.preprocessing import StandardScaler, OneHotEncoder,MinMaxScaler
 from sklearn.impute import SimpleImputer
 from sklearn.metrics.pairwise import cosine_similarity
+
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
+
 import streamlit as st
 import plotly.express as px
+
 from scripts.Recomendador_coseno import reccoseno
+from scripts.transformers_JuanPablo import CheckColumnNames,UnknownToZero,FixRanges
+from scripts.transformer_Alfredo import FillNaNsWithCeros
+from scripts.transformers_Demian import OneHotCodificador
+from scripts.transformer_Gonzalo import VectorizarTexto
 
 # Configurar la página
 st.set_page_config(
@@ -21,8 +30,24 @@ def load_and_preprocess_data():
     """Cargar y preprocesar datos"""
     try:
         # Cargar datos
-        
-        
+        df = pd.read_csv("data/datos_grasas_Tec.csv", encoding="latin1")
+
+        categorical_columns = ["Aceite Base","Espesante","Clasificacion ISO 6743-9","color","textura"]
+        preprocessor = Pipeline(steps=[
+            ("To have columns names needed", CheckColumnNames()),
+            ("To change unkown data to zeros", UnknownToZero("Grado NLGI Consistencia")),
+            ("To fix ranges and single values", FixRanges("Penetración de Cono a 25°C, 0.1mm")),
+            ...,
+            ("OneHot_categoricals", OneHotCodificador(columns=categorical_cols,drop_original=True,dtype=int)),
+            ("To fill NaNs with zeros", FillNaNsWithCeros()),
+            ("Vectorizar subtitulo", VectorizarTexto("subtitulo")),
+            ("Vectorizar descripcion", VectorizarTexto("descripcion")),
+            ("Vectorizar beneficios", VectorizarTexto("beneficios")),
+            ("Vectorizar aplicaciones", VectorizarTexto("aplicaciones")),
+            ('MinMax', ColumnTransformer(transformers=[('MinMax', MinMaxScaler(), slice(1,None))]))
+        ])
+        X_processed=preprocessor.fit_transform(df)
+
         return df, preprocessor, X_processed, numeric_cols, categorical_cols
         
     except Exception as e:
@@ -43,7 +68,8 @@ def create_lubricant_from_input(input_data, df_template):
 
 def recommend_similar_lubricant(new_lubricant_data, df, preprocessor, X_processed, top_k=5):
     """Recomendar grasas similares"""
-    results = reccoseno(new_lubricant_data, df, preprocessor, X_processed, top_k)
+    # Here new_lubricant_data will be transform
+    results = reccoseno(new_lubricant_processed, df, X_processed, top_k)
     
     return results
 
