@@ -17,6 +17,7 @@ from scripts.transformers_JuanPablo import CheckColumnNames,UnknownToZero,FixRan
 from scripts.transformer_Alfredo import FillNaNsWithCeros
 from scripts.transformers_Demian import OneHotCodificador
 from scripts.transformer_Gonzalo import VectorizarTexto
+from scripts.transformer_camila import DefineLimits
 
 # Configurar la página
 st.set_page_config(
@@ -31,14 +32,14 @@ def load_and_preprocess_data():
     try:
         # Cargar datos
         df = pd.read_csv("data/datos_grasas_Tec.csv", encoding="latin1")
-
+        range_columns = ["Punto de Gota, °C", "Estabilidad Mecánica, %", "Carga Timken Ok, lb", "Resistencia al Lavado por Agua a 80°C, %"]
         categorical_columns = ["Aceite Base","Espesante","Clasificacion ISO 6743-9","color","textura"]
         preprocessor = Pipeline(steps=[
             ("To have columns names needed", CheckColumnNames()),
             ("To change unkown data to zeros", UnknownToZero("Grado NLGI Consistencia")),
             ("To fix ranges and single values", FixRanges("Penetración de Cono a 25°C, 0.1mm")),
-            ...,
-            ("OneHot_categoricals", OneHotCodificador(columns=categorical_cols,drop_original=True,dtype=int)),
+            ("To fix limits of mixed type columns", DefineLimits(columns=range_columns, margin=0.0, verbose = True)),
+            ("OneHot_categoricals", OneHotCodificador(columns=categorical_columns,drop_original=True,dtype=int)),
             ("To fill NaNs with zeros", FillNaNsWithCeros()),
             ("Vectorizar subtitulo", VectorizarTexto("subtitulo")),
             ("Vectorizar descripcion", VectorizarTexto("descripcion")),
