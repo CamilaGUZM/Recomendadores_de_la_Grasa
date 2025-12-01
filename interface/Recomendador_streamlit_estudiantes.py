@@ -38,7 +38,7 @@ def load_and_preprocess_data():
             ("To have columns names needed", CheckColumnNames()),
             ("To change unkown data to zeros", UnknownToZero("Grado NLGI Consistencia")),
             ("To fix ranges and single values", FixRanges("Penetración de Cono a 25°C, 0.1mm")),
-            ("To fix limits of mixed type columns", DefineLimits(columns=range_columns, margin=0.0, verbose = True)),
+            ("To fix limits of mixed type columns", DefineLimits(columns=range_columns, margin=10, verbose = True)),
             ("OneHot_categoricals", OneHotCodificador(columns=categorical_columns,drop_original=True,dtype=int)),
             ("To fill NaNs with zeros", FillNaNsWithCeros()),
             ("Vectorizar subtitulo", VectorizarTexto("subtitulo")),
