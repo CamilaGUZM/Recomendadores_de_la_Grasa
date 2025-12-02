@@ -1,12 +1,12 @@
-idDatosGrasas,codigoGrasa,Aceite Base,Espesante,Grado NLGI Consistencia,Viscosidad del Aceite Base a 40°C. cSt,"Penetración de Cono a 25°C, 0.1mm","Punto de Gota, °C","Estabilidad Mecánica, %","Punto de Soldadura Cuatro Bolas, kgf","Desgaste Cuatro Bolas, mm","Carga Timken Ok, lb","Resistencia al Lavado por Agua a 80°C, %",Clasificacion ISO 6743-9,Factor de Velocidad,"Temperatura de Servicio °C, min","Temperatura de Servicio °C, max",subtitulo,descripcion,beneficios,aplicaciones,color,textura
-1,Grasa_1,Semi-Sintetico,Complejo Sulfonato de Calcio,2.0,680.0,279,304,1.07,500.0,,60,0.58,,200000.0,5,220,"Grasa de servicio pesado para alta resistencia al lavado por agua, temperatura y larga duración. ","El producto es grasa lubricante de servicio pesado, espesada con jabón complejo sulfonato de calcio que por su naturaleza es altamente resistente a la oxidación, la corrosión y al lavado por agua. 
+idDatosGrasas,codigoGrasa,Aceite Base,Espesante,Grado NLGI Consistencia,Viscosidad del Aceite Base a 40�C. cSt,"Penetraci�n de Cono a 25�C, 0.1mm","Punto de Gota, �C","Estabilidad Mec�nica, %","Punto de Soldadura Cuatro Bolas, kgf","Desgaste Cuatro Bolas, mm",Indice de Carga-Desgaste,"Carga Timken Ok, lb","Resistencia al Lavado por Agua a 80�C, %",Corrion EMCOR,Corrosi�n al Cobre,Prueba FZG,Registro NSF,"Solidos Totales, %","Tama�o de Particula, �",Bombeabilidad,Clasificacion ISO 6743-9,"Presion de Flujo a -30�C, mbar","Separacion del Aceite, %",Prevencion a la Corrosion,Estabilidad a la Oxidacion,Resistencia a la Humedad,pH,Factor de Torque,"Viscosidad Din�mica a 25�C, cP",Biodegradabilidad en 28 dias (> 60%),Factor de Velocidad,"Temperatura de Servicio �C, min","Temperatura de Servicio �C, max",categoria,subtitulo,descripcion,beneficios,aplicaciones,color,textura
+1,Grasa_1,Semi-Sintetico,Complejo Sulfonato de Calcio,2,680,279,304,1.07,500,,,60,0.58,,,,,,,,,,,,,,,,,,200000,5,220,Grasa,"Grasa de servicio pesado para alta resistencia al lavado por agua, temperatura y larga duración. ","El producto es grasa lubricante de servicio pesado, espesada con jabón complejo sulfonato de calcio que por su naturaleza es altamente resistente a la oxidación, la corrosión y al lavado por agua. 
 El producto posee excelentes propiedades sellantes, de resistencia a la humedad, mantiene alta protección anticorrosiva y características de soporte de carga/anti-desgaste excepcionales. ","Excelentes características de resistencia al lavado por agua y sellado del rodamiento.
 @Alta estabilidad térmica y anti-oxidante.
 @Excelente estabilidad de trabajo mecánico.
 @Alta resistencia a extrema presión y desgaste.
 @Excelente protección contra corrosión y herrumbre.
 @Alta adherencia a las partes metálicas en movimiento.",Debido a su composición óptima de aceites de alta calidad y espesante de jabón complejo la grasa El producto puede usarse en aplicaciones de alta temperatura y en condiciones de trabajos severos por cargas mecánicas debido a su capacidad de carga y propiedades de extrema presión inherentes.,Café,Suave
-2,Grasa_2,Mineral HT,Complejo Sulfonato de Calcio,1.5,460.0,300,304,2.6,900.0,0.5,70,3,,300000.0,-30,150,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
+2,Grasa_2,Mineral HT,Complejo Sulfonato de Calcio,1.5,460,300,304,2.6,900,0.5,166,70,3,,1a,,,,,,,,,,,,,,,,300000,-30,150,Grasa,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
 La composición de los aceites y la base de jabón complejo sulfonato de calcio proporciona excelente protección anti-desgaste, alto soporte de carga extrema, protección anti-corrosiva en medios químicamente agresivos, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Extremo soporte de carga.
 @Alto contenido de solidos.
 @Alto soporte antidesgaste por vibración.
@@ -16,7 +16,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.
 @Cojinetes de quebradoras de cono.",Negro,Adherente
-3,Grasa_3,Mineral HT,Complejo Sulfonato de Calcio,2.0,460.0,265 - 295,300,10,500.0,0.48,,3,,,-10,150,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
+3,Grasa_3,Mineral HT,Complejo Sulfonato de Calcio,2,460,265 - 295,300,10,500,0.48,,,3,,,,,,,,,,,,,,,,,,,-10,150,Grasa,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
 La composición de los aceites y la base de jabón complejo sulfonato de calcio proporciona excelente protección anti-desgaste, alto soporte de carga extrema, protección anti-corrosiva en medios químicamente agresivos, así como una excelente estabilidad mecánica, contiene lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Extremo soporte de carga.
 @Alto contenido de solidos.
 @Alto soporte antidesgaste por vibración.
@@ -26,14 +26,14 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.
 @Cojinetes de quebradoras de cono.",Negro,Adherente
-4,Grasa_4,Mineral HT,Complejo Sulfonato de Calcio,2.0,220.0,266 - 295,300,5,500.0,0.45,,3,,,-15,150,Grasa lubricante para condiciones extremas.,"El producto es una grasa lubricante elaborada con una mezcla de bases minerales espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante, con una configuración de aditivos anti-oxidantes, anti-corrosivos, anti-herrumbrantes, anti-desgaste y de extrema presión que le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas.","Alta estabilidad térmica y anti-oxidante.
+4,Grasa_4,Mineral HT,Complejo Sulfonato de Calcio,2,220,266 - 295,300,5,500,0.45,,,3,,,,,,,Buena,,,,,,,,,,,,-15,150,Grasa,Grasa lubricante para condiciones extremas.,"El producto es una grasa lubricante elaborada con una mezcla de bases minerales espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante, con una configuración de aditivos anti-oxidantes, anti-corrosivos, anti-herrumbrantes, anti-desgaste y de extrema presión que le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas.","Alta estabilidad térmica y anti-oxidante.
 @Excelentes características de lavado por agua.
 @Alta resistencia a extrema presión y desgaste.
 @Excelente protección contra corrosión y herrumbre.
 @Alta adherencia a las partes metálicas en movimiento.","Rodamientos expuestos a alta temperatura y cargas mecánicas.
 @Rodamientos de trenes de laminado de metales.
 @Rodamientos en condiciones de extremo lavado por agua.",Ambar,Suave
-5,Grasa_5,Mineral HT,Complejo de Aluminio - Poliurea,1.5,680.0,295,260,6.5,620.0,0.48,50,1.45,,,-5,150,Grasa lubricante para servicio pesado con alta resistencia a humedad y alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Excelente soporte de carga extrema.
+5,Grasa_5,Mineral HT,Complejo de Aluminio - Poliurea,1.5,680,295,260,6.5,620,0.48,,50,1.45,,1a,,,,,,,,,,,,,,,,,-5,150,Grasa,Grasa lubricante para servicio pesado con alta resistencia a humedad y alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Excelente soporte de carga extrema.
 @Excelente resistencia al lavado por agua.
 @Alta resistencia a medios químicos agresivos.
 @Excelente adherencia a partes en movimiento.
@@ -43,7 +43,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Palas Mecánicas y equipo móvil.
 @Cojinetes de quebradoras.
 @Acoplamientos.",Negro,Adherente
-6,Grasa_6,Mineral HT,Complejo de Aluminio - Poliurea,2.0,680.0,275,260,6.5,620.0,0.48,50,1.45,,,-5,150,Grasa lubricante para servicio pesado con alta resistencia a humedad y alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Excelente soporte de carga extrema.
+6,Grasa_6,Mineral HT,Complejo de Aluminio - Poliurea,2,680,275,260,6.5,620,0.48,,50,1.45,,1a,,,,,,,,,,,,,,,,,-5,150,Grasa,Grasa lubricante para servicio pesado con alta resistencia a humedad y alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Excelente soporte de carga extrema.
 @Excelente resistencia al lavado por agua.
 @Alta resistencia a medios químicos agresivos.
 @Excelente adherencia a partes en movimiento.
@@ -53,13 +53,13 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Palas Mecánicas y equipo móvil.
 @Cojinetes de quebradoras.
 @Acoplamientos.",Negro,Adherente
-7,Grasa_7,Mineral HT,Complejo de Aluminio,1.0,3800.0,320,280,,500.0,,40,,,,-5,120,Grasa lubricante especial para cables.,"El producto es una grasa especial para engranajes abiertos de baja velocidad lubricados por inmersión o en forma manual, así como para la lubricación y conservación de cables de grúas.
+7,Grasa_7,Mineral HT,Complejo de Aluminio,1,3800,320,280,,500,,,40,,,,,,,,,,,,,,,,,,,,-5,120,Grasa,Grasa lubricante especial para cables.,"El producto es una grasa especial para engranajes abiertos de baja velocidad lubricados por inmersión o en forma manual, así como para la lubricación y conservación de cables de grúas.
 El producto está formulado con aceite básico de muy alta viscosidad, agentes espesantes de jabón de aluminio complejo para garantizar la polaridad hacia los metales y lubricantes sólidos de grafito micronizados para aumentar la capacidad de soporte de carga.","Excelentes características térmicas.
 @Excelente adherencia a los metales.
 @Excelente resistencia al agua.
 @Excelentes propiedades de extrema presión.","Se recomienda en la lubricación de engranajes abiertos de baja velocidad como los de molinos, de hornos giratorios, así como también transmisiones abiertas de grúas y malacates.
 @Se recomienda también para la lubricación de cables de acero de grúas en ambientes contaminados o en condiciones de salinidad.",Negro,Adherente
-8,Grasa_8,Mineral HT,Complejo Sulfonato de Calcio,0.0,800.0,370,304,1.6,900.0,0.5,70,,,300000.0,-30,150,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
+8,Grasa_8,Mineral HT,Complejo Sulfonato de Calcio,0,800,370,304,1.6,900,0.5,166,70,,,1a,,,,,,,,,,,,,,,,300000,-30,150,Grasa,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
 La composición de los aceites y la base de jabón complejo sulfonato de calcio proporciona excelente protección anti-desgaste, alto soporte de carga extrema, protección anti-corrosiva en medios químicamente agresivos, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Extremo soporte de carga.
 @Alto contenido de solidos.
 @Alto soporte antidesgaste por vibración.
@@ -69,7 +69,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.
 @Cojinetes de quebradoras de cono.",Negro,Adherente
-9,Grasa_9,Mineral HT,Complejo Sulfonato de Calcio,1.0,800.0,312,304,1.6,900.0,0.5,70,3,,300000.0,-30,150,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
+9,Grasa_9,Mineral HT,Complejo Sulfonato de Calcio,1,800,312,304,1.6,900,0.5,166,70,3,,1a,,,,,,,,,,,,,,,,300000,-30,150,Grasa,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
 La composición de los aceites y la base de jabón complejo sulfonato de calcio proporciona excelente protección anti-desgaste, alto soporte de carga extrema, protección anti-corrosiva en medios químicamente agresivos, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Extremo soporte de carga.
 @Alto contenido de solidos.
 @Alto soporte antidesgaste por vibración.
@@ -79,7 +79,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.
 @Cojinetes de quebradoras de cono.",Negro,Adherente
-10,Grasa_10,Mineral HT,Complejo Sulfonato de Calcio,1.5,800.0,300,304,2.6,900.0,0.5,70,3,,300000.0,-30,150,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
+10,Grasa_10,Mineral HT,Complejo Sulfonato de Calcio,1.5,800,300,304,2.6,900,0.5,166,70,3,,1a,,,,,,,,,,,,,,,,300000,-30,150,Grasa,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
 La composición de los aceites y la base de jabón complejo sulfonato de calcio proporciona excelente protección anti-desgaste, alto soporte de carga extrema, protección anti-corrosiva en medios químicamente agresivos, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Extremo soporte de carga.
 @Alto contenido de solidos.
 @Alto soporte antidesgaste por vibración.
@@ -89,7 +89,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.
 @Cojinetes de quebradoras de cono.",Negro,Adherente
-11,Grasa_11,Mineral HT,Complejo Sulfonato de Calcio,2.0,800.0,269,304,1.5,900.0,0.5,70,2.8,,300000.0,-8,150,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
+11,Grasa_11,Mineral HT,Complejo Sulfonato de Calcio,2,800,269,304,1.5,900,0.5,166,70,2.8,,1a,,,,,,,,,,,,,,,,300000,-8,150,Grasa,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
 La composición de los aceites y la base de jabón complejo sulfonato de calcio proporciona excelente protección anti-desgaste, alto soporte de carga extrema, protección anti-corrosiva en medios químicamente agresivos, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Extremo soporte de carga.
 @Alto contenido de solidos.
 @Alto soporte antidesgaste por vibración.
@@ -99,7 +99,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.
 @Cojinetes de quebradoras de cono.",Negro,Adherente
-12,Grasa_12,Mineral HT,Complejo Sulfonato de Calcio,3.0,800.0,248,304,3.8,900.0,0.5,70,2.4,,300000.0,5,150,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
+12,Grasa_12,Mineral HT,Complejo Sulfonato de Calcio,3,800,248,304,3.8,900,0.5,166,70,2.4,,1a,,,,,,,,,,,,,,,,300000,5,150,Grasa,Grasa para lubricación de equipo pesado.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua y alto soporte de carga extrema. 
 La composición de los aceites y la base de jabón complejo sulfonato de calcio proporciona excelente protección anti-desgaste, alto soporte de carga extrema, protección anti-corrosiva en medios químicamente agresivos, así como una excelente estabilidad mecánica, contiene 5% de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas.","Extremo soporte de carga.
 @Alto contenido de solidos.
 @Alto soporte antidesgaste por vibración.
@@ -109,7 +109,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.
 @Cojinetes de quebradoras de cono.",Negro,Adherente
-13,Grasa_13,Mineral Refinado,Complejo Sulfonato de Calcio,1.0,460.0,320,304,0.8,500.0,,60,0.4,L-XBCEB 1,,-20,190,"Grasa de servicio pesado para alta temperatura, larga duración y resistente al lavado por agua.","El producto es una grasa lubricante de servicio pesado, espesada con un novedoso jabón de complejo sulfonato de calcio que por su naturaleza es altamente resistente a la oxidación, la corrosión y al lavado por agua, posee excelentes propiedades de lubricación en condiciones de cargas severas y de extrema presión, junto con su propiedad de sellar eficazmente contra influencias ambientales y en especial del agua.","Alta estabilidad térmica y anti-oxidante.
+13,Grasa_13,Mineral Refinado,Complejo Sulfonato de Calcio,1,460,320,304,0.8,500,,,60,0.4,,,,,,,,L-XBCEB 1,,,,,,,,,,,-20,190,Grasa,"Grasa de servicio pesado para alta temperatura, larga duración y resistente al lavado por agua.","El producto es una grasa lubricante de servicio pesado, espesada con un novedoso jabón de complejo sulfonato de calcio que por su naturaleza es altamente resistente a la oxidación, la corrosión y al lavado por agua, posee excelentes propiedades de lubricación en condiciones de cargas severas y de extrema presión, junto con su propiedad de sellar eficazmente contra influencias ambientales y en especial del agua.","Alta estabilidad térmica y anti-oxidante.
 @Excelente estabilidad de trabajo mecánico.
 @Alta resistencia a extrema presión y desgaste.
 @Excelente protección contra corrosión y herrumbre.
@@ -118,7 +118,7 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Para la lubricación de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
 @En las industrias minera, siderúrgica, papelera, cementera, automotriz, embotelladora, etc.
 @La versión El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",Café Claro,Suave
-14,Grasa_14,Mineral Refinado,Complejo Sulfonato de Calcio,2.0,460.0,280,304,0.8,500.0,,60,0.4,L-XBCEB 2,,-20,190,"Grasa de servicio pesado para alta temperatura, larga duración y resistente al lavado por agua.","El producto es una grasa lubricante de servicio pesado, espesada con un novedoso jabón de complejo sulfonato de calcio que por su naturaleza es altamente resistente a la oxidación, la corrosión y al lavado por agua, posee excelentes propiedades de lubricación en condiciones de cargas severas y de extrema presión, junto con su propiedad de sellar eficazmente contra influencias ambientales y en especial del agua.","Alta estabilidad térmica y anti-oxidante.
+14,Grasa_14,Mineral Refinado,Complejo Sulfonato de Calcio,2,460,280,304,0.8,500,,,60,0.4,,,,,,,,L-XBCEB 2,,,,,,,,,,,-20,190,Grasa,"Grasa de servicio pesado para alta temperatura, larga duración y resistente al lavado por agua.","El producto es una grasa lubricante de servicio pesado, espesada con un novedoso jabón de complejo sulfonato de calcio que por su naturaleza es altamente resistente a la oxidación, la corrosión y al lavado por agua, posee excelentes propiedades de lubricación en condiciones de cargas severas y de extrema presión, junto con su propiedad de sellar eficazmente contra influencias ambientales y en especial del agua.","Alta estabilidad térmica y anti-oxidante.
 @Excelente estabilidad de trabajo mecánico.
 @Alta resistencia a extrema presión y desgaste.
 @Excelente protección contra corrosión y herrumbre.
@@ -127,26 +127,26 @@ La composición de los aceites y la base de jabón complejo sulfonato de calcio 
 @Para la lubricación de rodamientos, chumaceras, cojinetes, y otro tipo de mecanismos que trabajen en condiciones adversas y trabajo severo. 
 @En las industrias minera, siderúrgica, papelera, cementera, automotriz, embotelladora, etc.
 @La versión El producto Moly se recomienda para aplicaciones donde existen vibraciones e impactos.",Café Claro,Suave
-15,Grasa_15,Mineral,Complejo Sulfonato de Calcio,2.0,700.0,266 - 295,290,< 10,315.0,,60,< 3,,,-15,150,Grasa lubricante para condiciones extremas.,"El producto es una grasa lubricante elaborada con una mezcla de bases minerales espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante y con una configuración de aditivos anti-oxidantes, anti-corrosivos, anti-herrumbrantes, anti-desgaste y de extrema presión que le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas.","Alta estabilidad térmica y anti-oxidante.
+15,Grasa_15,Mineral,Complejo Sulfonato de Calcio,2,700,266 - 295,290,< 10,315,,,60,< 3,,,,,,,Buena,,,,,,,,,,,,-15,150,Grasa,Grasa lubricante para condiciones extremas.,"El producto es una grasa lubricante elaborada con una mezcla de bases minerales espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante y con una configuración de aditivos anti-oxidantes, anti-corrosivos, anti-herrumbrantes, anti-desgaste y de extrema presión que le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas.","Alta estabilidad térmica y anti-oxidante.
 @Excelentes características de lavado por agua.
 @Alta resistencia a extrema presión y desgaste.
 @Excelente protección contra corrosión y herrumbre.
 @Alta adherencia a las partes metálicas en movimiento.","Rodamientos expuestos a alta temperatura y cargas mecánicas.
 @Rodamientos de trenes de laminado de metales.
 @Rodamientos en condiciones de extremo lavado por agua.",Beige,Adherente
-16,Grasa_16,,,2.0,,270,295,5,,,,1,,150000.0,-10,150,Grasa lubricante sellante para válvulas de servicio en larga duración resistentes a gas natural y L.P.,"El producto es una grasa de efecto sellante con una mezcla de aceites bases altamente refinados, aditivos de anti-desgaste y compuestos adherentes para la lubricación y sellado de válvulas tipo macho.","Resistencia a gas natural y gas L.P.
+16,Grasa_16,,,2,,270,295,5,,,,,1,,,,,,,,,,,,,,,,,,150000,-10,150,Grasa,Grasa lubricante sellante para válvulas de servicio en larga duración resistentes a gas natural y L.P.,"El producto es una grasa de efecto sellante con una mezcla de aceites bases altamente refinados, aditivos de anti-desgaste y compuestos adherentes para la lubricación y sellado de válvulas tipo macho.","Resistencia a gas natural y gas L.P.
 @Gran capacidad de sellado.
 @Excepcional efecto deslizante y anti-desgaste.
 @Larga vida de operación.
 @Excelente comportamiento en temperatura ambiente extremas.","Por su acción deslizante, lubricante y sellante su uso es muy adecuado en válvulas tipo de estufa, reguladores de gas y termo reguladores de gas Natural y gas L.P.",Ambar,Suave Adhesiva
-17,Grasa_17,Mineral USP,Complejo de Aluminio,2.0,480.0,275,260,4,250.0,0.6,40,2,,350000.0,-5,180,Grasa de alta resistencia para industria alimenticia y farmacéutica.,"El producto es una grasa lubricante formulada con una base altamente resistente a la humedad y medios químicos, comúnmente utilizados en la industria alimenticia, se recomienda para aplicaciones especiales y generales en la industria alimenticia, es resistente a altas temperaturas, condiciones de humedad, vapores y desinfectantes.
+17,Grasa_17,Mineral USP,Complejo de Aluminio,2,480,275,260,4,250,0.6,,40,2,,,,164358,,,,,,,,,,,,,,350000,-5,180,Grasa,Grasa de alta resistencia para industria alimenticia y farmacéutica.,"El producto es una grasa lubricante formulada con una base altamente resistente a la humedad y medios químicos, comúnmente utilizados en la industria alimenticia, se recomienda para aplicaciones especiales y generales en la industria alimenticia, es resistente a altas temperaturas, condiciones de humedad, vapores y desinfectantes.
 @El producto está aprobada por NSF como lubricante tipo H1 para contacto incidental con alimentos.","Excelente resistencia contra la humedad.
 @Alta soporte de temperatura.
 @Excelentes propiedades anti-desgaste.
 @Desempeño sobresaliente en mediana velocidad.","Lubricación de rodamientos en condiciones extremas de contaminación.
 @Rodamientos expuestos a media velocidad.
 @Para cojinetes lisos en baja velocidad.",Blanco,Suave
-18,Grasa_18,,Silica,2.0,680.0,280,No Gotea,8,800.0,,,5,,,5,210,Grasa lubricante para rodamientos de peletizadoras de madera.,"El producto es una grasa lubricante que posee excelentes propiedades de lubricación en condiciones de alta temperatura y extrema presión.
+18,Grasa_18,,Silica,2,680,280,No Gotea,8,800,,,,5,,,,,,,,,,,,,,,,,,,5,210,Grasa,Grasa lubricante para rodamientos de peletizadoras de madera.,"El producto es una grasa lubricante que posee excelentes propiedades de lubricación en condiciones de alta temperatura y extrema presión.
 Especialmente diseñada para soportar condiciones de alta fricción y temperatura en las peletizadoras de madera, contiene un conjunto de aditivos y lubricantes sólidos que le permiten mantener condiciones lubricantes de emergencia bajo condiciones de carga, fricción y vibración, es altamente estable a la temperatura no perdiendo su estructura con los cambios.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad de trabajo mecánico.
 @Resistencia a extrema presión y desgaste.
@@ -154,14 +154,14 @@ Especialmente diseñada para soportar condiciones de alta fricción y temperatur
 @Alta adherencia a las partes metálicas en movimiento.
 @Excelentes características de sellado del rodamiento.","Especialmente diseñada para la lubricación de rodamientos de mediana a alta velocidad, en peletizadoras de madera.
 @Cuenta con un excelente desempeño en la lubricación de rodamientos, guías, correderas, bujes, engranes pequeños y elementos mecánicos.",Beige,Adherente
-19,Grasa_19,,Silica,2.0,680.0,240,304,9.8,315.0,,40,5,,,0,240,Grasa para alta temperatura y larga duración.,"El producto es una grasa lubricante que posee excelentes propiedades de lubricación en condiciones de alta temperatura así como extrema presión.
+19,Grasa_19,,Silica,2,680,240,304,9.8,315,,,40,5,,,,,,,,,,,,,,,,,,,0,240,Grasa,Grasa para alta temperatura y larga duración.,"El producto es una grasa lubricante que posee excelentes propiedades de lubricación en condiciones de alta temperatura así como extrema presión.
 Especialmente diseñada para soportar condiciones de extrema temperatura por largos periodos en las cuales las grasas convencionales de jabón no son funcionales a 240ºC, es altamente estable a la temperatura no perdiendo su estructura con los cambios.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad de trabajo mecánico.
 @Resistencia a extrema presión y desgaste.
 @Excelente protección contra corrosión y herrumbre.
 @Alta adherencia a las partes metálicas en movimiento.
 @Excelentes características de lavado por agua y sellado del rodamiento.",Lubricante de uso general para cojinetes y rodamientos de bolas o de rodillos expuestos a temperaturas hasta 240ºC.,Ambar,Suave
-20,Grasa_20,Mineral HT,Complejo de Litio,1.2,400.0,290 - 310,235,,250.0,,,,,,-25,150,Grasa adherente para mecanismos automotrices.,"El producto  Grasa Lubricante con gran adherencia, excelente resistencia a la humedad, Extrema Presión y temperaturas bajas y altas.
+20,Grasa_20,Mineral HT,Complejo de Litio,1.2,400,290 - 310,235,,250,,,,,0/0,,,,,,,,800,< 5,,,< 0.5,,,,,,-25,150,Grasa,Grasa adherente para mecanismos automotrices.,"El producto  Grasa Lubricante con gran adherencia, excelente resistencia a la humedad, Extrema Presión y temperaturas bajas y altas.
 La composición de su aceite básico hidrotratado, espesante de complejo de litio  y aditivada con microparticulas que le proveen de mayor protección contra el desgaste, la corrosión además de excelente estabilidad al trabajo mecánico.","Adhesión extrema a elementos mecánicos.
 @Alta protección contra la corrosión.
 @Excelente resistencia a la oxidación.
@@ -172,11 +172,11 @@ La composición de su aceite básico hidrotratado, espesante de complejo de liti
 @Acoplamientos.
 @Terminales de dirección.
 @Pivotes de Suspensión.",Beige Claro,Adherente
-21,Grasa_21,Mineral,Complejo de Aluminio,0.0,220.0,460,110,,315.0,,40,,,300000.0,-5,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en estas industrias.
+21,Grasa_21,Mineral,Complejo de Aluminio,0,220,460,110,,315,,,40,,,,,,,,,,,,,,,,,,,300000,-5,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en estas industrias.
 El producto está aprobada por NSF como lubricante tipo H1 para contacto incidental con alimentos.","El producto tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos.
 @El producto es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.","El producto está especialmente diseñada para la lubricación de rodamientos de mediana y baja velocidad, en los cuales eventualmente, se pudiera tener perdida de lubricante y este ultimo entre en contacto con los alimentos.
 @Generalmente se recomienda El producto 0, 00 y 000 para aplicarse en sistemas centralizados de lubricación y por inmersión para lubricar engranes y rodamientos que así lo requieran.",Blanco,Suave
-22,Grasa_22,Mineral USP,Complejo de Aluminio,1.0,100.0,320,255,3.2,250.0,,40,3,,900000.0,-10,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia,  resistente a condiciones de humedad, vapores y desinfectantes utilizados en la estas industrias.
+22,Grasa_22,Mineral USP,Complejo de Aluminio,1,100,320,255,3.2,250,,,40,3,,,,,,,,,,,,,,,,,,900000,-10,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia,  resistente a condiciones de humedad, vapores y desinfectantes utilizados en la estas industrias.
 El producto cumple con los lineamientos de la NSF (National Sanitation Foundation) como lubricante tipo H1 para contacto incidental con alimentos.","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -184,7 +184,7 @@ El producto cumple con los lineamientos de la NSF (National Sanitation Foundatio
 @Excelentes propiedades antidesgaste.
 @Desempeño sobresaliente en mediana y alta velocidad.","El producto está especialmente diseñada para la lubricación de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos, es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.",Blanco,Suave
-23,Grasa_23,Mineral USP,Complejo de Aluminio,2.0,100.0,275,255,3.2,250.0,,40,3,,900000.0,-10,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia,  resistente a condiciones de humedad, vapores y desinfectantes utilizados en la estas industrias.
+23,Grasa_23,Mineral USP,Complejo de Aluminio,2,100,275,255,3.2,250,,,40,3,,,,,,,,,,,,,,,,,,900000,-10,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia,  resistente a condiciones de humedad, vapores y desinfectantes utilizados en la estas industrias.
 El producto cumple con los lineamientos de la NSF (National Sanitation Foundation) como lubricante tipo H1 para contacto incidental con alimentos.","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -192,7 +192,7 @@ El producto cumple con los lineamientos de la NSF (National Sanitation Foundatio
 @Excelentes propiedades antidesgaste.
 @Desempeño sobresaliente en mediana y alta velocidad.","El producto está especialmente diseñada para la lubricación de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos, es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.",Blanco,Suave
-24,Grasa_22,Mineral USP,Complejo de Aluminio,3.0,100.0,245,255,3.2,250.0,,40,3,,750000.0,-5,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia,  resistente a condiciones de humedad, vapores y desinfectantes utilizados en la estas industrias.
+24,Grasa_22,Mineral USP,Complejo de Aluminio,3,100,245,255,3.2,250,,,40,3,,,,,,,,,,,,,,,,,,750000,-5,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia,  resistente a condiciones de humedad, vapores y desinfectantes utilizados en la estas industrias.
 El producto cumple con los lineamientos de la NSF (National Sanitation Foundation) como lubricante tipo H1 para contacto incidental con alimentos.","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -200,7 +200,7 @@ El producto cumple con los lineamientos de la NSF (National Sanitation Foundatio
 @Excelentes propiedades antidesgaste.
 @Desempeño sobresaliente en mediana y alta velocidad.","El producto está especialmente diseñada para la lubricación de rodamientos de mediana y alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos, es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.",Blanco,Suave
-25,Grasa_24,Mineral USP,,1.0,220.0,315,260,3.9,300.0,,40,2.5,,500000.0,-5,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones en la industria alimenticia,  en donde se requiere una alta resistencia a condiciones de humedad, vapores ácidos y desinfectantes utilizados en la industria alimenticia. 
+25,Grasa_24,Mineral USP,,1,220,315,260,3.9,300,,,40,2.5,,,,,,,,,,,,,,,,,,500000,-5,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones en la industria alimenticia,  en donde se requiere una alta resistencia a condiciones de humedad, vapores ácidos y desinfectantes utilizados en la industria alimenticia. 
 Los componentes con los que se utilizan en su elaboración cumplen con las especificaciones marcadas por la FDA como lubricante para contacto accidental con alimentos según el CFR (Code of Federal Regulations, 21 Parts 170-19 Food additives and related regulations) .","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -209,7 +209,7 @@ Los componentes con los que se utilizan en su elaboración cumplen con las espec
 @Desempeño sobresaliente en mediana y alta velocidad.","El producto esta especialmente diseñada para la lubricación de rodamientos de mediana y baja velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto  tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos en los cuales las condiciones de contaminación sean extremas.
 @El producto es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.",Cristalino,Suave
-26,Grasa_25,Mineral USP,,2.0,220.0,270,270,6.3,300.0,,40,2.5,,350000.0,-5,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones en la industria alimenticia,  en donde se requiere una alta resistencia a condiciones de humedad, vapores ácidos y desinfectantes utilizados en la industria alimenticia. 
+26,Grasa_25,Mineral USP,,2,220,270,270,6.3,300,,,40,2.5,,,,,,,,,,,,,,,,,,350000,-5,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones en la industria alimenticia,  en donde se requiere una alta resistencia a condiciones de humedad, vapores ácidos y desinfectantes utilizados en la industria alimenticia. 
 Los componentes con los que se utilizan en su elaboración cumplen con las especificaciones marcadas por la FDA como lubricante para contacto accidental con alimentos según el CFR (Code of Federal Regulations, 21 Parts 170-19 Food additives and related regulations) .","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -218,28 +218,28 @@ Los componentes con los que se utilizan en su elaboración cumplen con las espec
 @Desempeño sobresaliente en mediana y alta velocidad.","El producto esta especialmente diseñada para la lubricación de rodamientos de mediana y baja velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto  tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos en los cuales las condiciones de contaminación sean extremas.
 @El producto es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.",Cristalino,Suave
-27,Grasa_26,Mineral USP,Complejo Sulfonato de Calcio,1.0,100.0,325,304,1.4,500.0,0.35,40,0.02,,900000.0,-5,180,Grasa de alta resistencia para industria alimenticia y farmacéutica.,"El producto es una grasa lubricante formulada con una base altamente resistente a la humedad y medios químicos común-mente utilizados en la industria alimenticia. 
+27,Grasa_26,Mineral USP,Complejo Sulfonato de Calcio,1,100,325,304,1.4,500,0.35,,40,0.02,,,,154453,,,,,,,,,,,,,,900000,-5,180,Grasa,Grasa de alta resistencia para industria alimenticia y farmacéutica.,"El producto es una grasa lubricante formulada con una base altamente resistente a la humedad y medios químicos común-mente utilizados en la industria alimenticia. 
 Se recomienda para aplicaciones especiales y generales en la industria alimenticia, resistente a altas temperaturas, condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia.","Excelente protección contra el desgaste.
 @Buena resistencia al lavado por agua, vapores y desinfectantes.
 @Excelente adherencia a partes metálicas en movimiento.
 @Gran resistencia a la corrosión y herrumbre.","Especialmente diseñada para la lubricación de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @Cuenta con un excelente desempeño en la lubricación de rodamientos, guías, correderas, bujes, engranes pequeños y elementos mecánicos.
 @El producto es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.",Beige,Suave
-28,Grasa_27,Mineral USP,Complejo Sulfonato de Calcio,2.0,100.0,290,304,1.4,500.0,0.35,40,0.02,,900000.0,-5,180,Grasa de alta resistencia para industria alimenticia y farmacéutica.,"El producto es una grasa lubricante formulada con una base altamente resistente a la humedad y medios químicos común-mente utilizados en la industria alimenticia. 
+28,Grasa_27,Mineral USP,Complejo Sulfonato de Calcio,2,100,290,304,1.4,500,0.35,,40,0.02,,,,154453,,,,,,,,,,,,,,900000,-5,180,Grasa,Grasa de alta resistencia para industria alimenticia y farmacéutica.,"El producto es una grasa lubricante formulada con una base altamente resistente a la humedad y medios químicos común-mente utilizados en la industria alimenticia. 
 Se recomienda para aplicaciones especiales y generales en la industria alimenticia, resistente a altas temperaturas, condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia.","Excelente protección contra el desgaste.
 @Buena resistencia al lavado por agua, vapores y desinfectantes.
 @Excelente adherencia a partes metálicas en movimiento.
 @Gran resistencia a la corrosión y herrumbre.","Especialmente diseñada para la lubricación de mecanismos de mediana a alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @Cuenta con un excelente desempeño en la lubricación de rodamientos, guías, correderas, bujes, engranes pequeños y elementos mecánicos.
 @El producto es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.",Beige,Suave
-29,Grasa_28,Mineral HT,Complejo Sulfonato de Calcio,0.0,3500.0,365,140,1.6,620.0,0.45,60,,,,-5,150,Lubricante especial para engranes de palas mecánicas.,"El producto es un lubricante especial para sistemas de engranajes abiertos sujetos a grandes presiones en aplicaciones de minería.
+29,Grasa_28,Mineral HT,Complejo Sulfonato de Calcio,0,3500,365,140,1.6,620,0.45,,60,,,,,,,,,,,,,,,,,,,,-5,150,Grasa,Lubricante especial para engranes de palas mecánicas.,"El producto es un lubricante especial para sistemas de engranajes abiertos sujetos a grandes presiones en aplicaciones de minería.
 Está formulado con una mezcla de básicos de alta viscosidad, aditivos de adherencia así como de extrema presión, antidesgaste, y anti-corrosivos que proveen una película lubricante de gran polaridad que previene el contacto entre las superficies de los dientes evitando así el desgaste y aportando alta resistencia a las condiciones medioambientales. ","Alta polaridad a la superficie de los engrane.
 @Excelente protección anti-degaste.
 @Alto soporte de carga extrema.
 @Película lubricante adhesiva.
 @Excelente protección en ambientes agresivos
 @Mínimo escurrimiento en aplicación.",Es recomendado para la lubricación de engranes y cables de palas mecánicas,Negro,Viscosa adherente
-30,Grasa_29,Mineral HT,Complejo de Aluminio - Poliurea,1.0,680.0,310,260,6.5,620.0,0.48,50,1.45,,200000.0,-10,150,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
+30,Grasa_29,Mineral HT,Complejo de Aluminio - Poliurea,1,680,310,260,6.5,620,0.48,98,50,1.45,,1a,,,,,,,,,,,,,,,,200000,-10,150,Grasa,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
 Por sus características es ideal para la lubricación de mecanismos que operan en velocidades bajas, además proporciona excelentes propiedades de sellado contra los medios húmedos y contaminantes agresivos como sustancias alcalinas y acidas.","Excelente soporte de carga extrema.
 @Excelente resistencia al lavado por agua.
 @Alta resistencia a medios químicos agresivos.
@@ -249,7 +249,7 @@ Por sus características es ideal para la lubricación de mecanismos que operan 
 @Máquinas de tratamiento húmedo textil.
 @Secadoras de papel y cartón.
 @Procesos de decapado.",Beige,Adherente
-31,Grasa_30,Mineral HT,Complejo de Aluminio - Poliurea,1.5,680.0,300,260,6.5,620.0,0.48,50,1.45,,200000.0,-5,150,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
+31,Grasa_30,Mineral HT,Complejo de Aluminio - Poliurea,1.5,680,300,260,6.5,620,0.48,98,50,1.45,,1a,,,,,,,,,,,,,,,,200000,-5,150,Grasa,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
 Por sus características es ideal para la lubricación de mecanismos que operan en velocidades bajas, además proporciona excelentes propiedades de sellado contra los medios húmedos y contaminantes agresivos como sustancias alcalinas y acidas.","Excelente soporte de carga extrema.
 @Excelente resistencia al lavado por agua.
 @Alta resistencia a medios químicos agresivos.
@@ -259,7 +259,7 @@ Por sus características es ideal para la lubricación de mecanismos que operan 
 @Máquinas de tratamiento húmedo textil.
 @Secadoras de papel y cartón.
 @Procesos de decapado.",Beige,Adherente
-32,Grasa_31,Mineral HT,Complejo de Aluminio - Poliurea,2.0,680.0,275,260,6.5,620.0,0.48,50,1.45,,200000.0,-5,150,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
+32,Grasa_31,Mineral HT,Complejo de Aluminio - Poliurea,2,680,275,260,6.5,620,0.48,98,50,1.45,,1a,,,,,,,,,,,,,,,,200000,-5,150,Grasa,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
 Por sus características es ideal para la lubricación de mecanismos que operan en velocidades bajas, además proporciona excelentes propiedades de sellado contra los medios húmedos y contaminantes agresivos como sustancias alcalinas y acidas.","Excelente soporte de carga extrema.
 @Excelente resistencia al lavado por agua.
 @Alta resistencia a medios químicos agresivos.
@@ -269,7 +269,7 @@ Por sus características es ideal para la lubricación de mecanismos que operan 
 @Máquinas de tratamiento húmedo textil.
 @Secadoras de papel y cartón.
 @Procesos de decapado.",Beige,Adherente
-33,Grasa_32,Mineral HT,Complejo de Aluminio - Poliurea,3.0,680.0,230,260,5.2,620.0,0.48,50,0.32,,200000.0,5,150,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
+33,Grasa_32,Mineral HT,Complejo de Aluminio - Poliurea,3,680,230,260,5.2,620,0.48,98,50,0.32,,1a,,,,,,,,,,,,,,,,200000,5,150,Grasa,Grasa lubricante con alta resistencia a humedad y medios químicos con alto soporte a cargas extremas.,"El producto es un grasa lubricante con propiedades especiales de gran adhesión y elevado soporte a cargas extremas, esta elaborada a base de aceites minerales altamente refinados espesados con un agente complejo de Aluminio-Poliurea.
 Por sus características es ideal para la lubricación de mecanismos que operan en velocidades bajas, además proporciona excelentes propiedades de sellado contra los medios húmedos y contaminantes agresivos como sustancias alcalinas y acidas.","Excelente soporte de carga extrema.
 @Excelente resistencia al lavado por agua.
 @Alta resistencia a medios químicos agresivos.
@@ -279,43 +279,43 @@ Por sus características es ideal para la lubricación de mecanismos que operan 
 @Máquinas de tratamiento húmedo textil.
 @Secadoras de papel y cartón.
 @Procesos de decapado.",Beige,Adherente
-34,Grasa_33,Mineral,Complejo de Poliurea,0.0,120.0,415,190,11,315.0,,45,,,400000.0,-15,110,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
+34,Grasa_33,Mineral,Complejo de Poliurea,0,120,415,190,11,315,,,45,,,,,,,,,,,,,,,,,,,400000,-15,110,Grasa,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad a la fuerza dinámica y presión.
 @Excelente protección contra el desgaste.
 @Excelente protección contra la corrosión y herrumbre.
 @Resistente contra agua, vapor y soluciones ácidas y alcalinas.
 @Alta adherencia a los metales.","El producto están formuladas para satisfacer en forma general la lubricación de rodamientos, cojinetes lisos y mecanismos en lubricación de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcción, en transportadores, montacargas, imprentas, motores eléctricos, máquinas-herramientas, etc.",Beige,Suave
-35,Grasa_34,Mineral,Complejo de Poliurea,0.0,120.0,370,230,11,315.0,,45,,,400000.0,-15,110,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
+35,Grasa_34,Mineral,Complejo de Poliurea,0,120,370,230,11,315,,,45,,,,,,,,,,,,,,,,,,,400000,-15,110,Grasa,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad a la fuerza dinámica y presión.
 @Excelente protección contra el desgaste.
 @Excelente protección contra la corrosión y herrumbre.
 @Resistente contra agua, vapor y soluciones ácidas y alcalinas.
 @Alta adherencia a los metales.","El producto están formuladas para satisfacer en forma general la lubricación de rodamientos, cojinetes lisos y mecanismos en lubricación de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcción, en transportadores, montacargas, imprentas, motores eléctricos, máquinas-herramientas, etc.",Beige,Suave
-36,Grasa_35,Mineral,Complejo de Poliurea,1.0,120.0,315,235,6.2,315.0,,45,2.5,,400000.0,-15,110,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
+36,Grasa_35,Mineral,Complejo de Poliurea,1,120,315,235,6.2,315,,,45,2.5,,,,,,,,,,,,,,,,,,400000,-15,110,Grasa,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad a la fuerza dinámica y presión.
 @Excelente protección contra el desgaste.
 @Excelente protección contra la corrosión y herrumbre.
 @Resistente contra agua, vapor y soluciones ácidas y alcalinas.
 @Alta adherencia a los metales.","El producto están formuladas para satisfacer en forma general la lubricación de rodamientos, cojinetes lisos y mecanismos en lubricación de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcción, en transportadores, montacargas, imprentas, motores eléctricos, máquinas-herramientas, etc.",Beige,Suave
-37,Grasa_36,Mineral,Complejo de Poliurea,1.5,120.0,310,235,5.8,315.0,,45,2.4,,400000.0,-15,110,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
+37,Grasa_36,Mineral,Complejo de Poliurea,1.5,120,310,235,5.8,315,,,45,2.4,,,,,,,,,,,,,,,,,,400000,-15,110,Grasa,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad a la fuerza dinámica y presión.
 @Excelente protección contra el desgaste.
 @Excelente protección contra la corrosión y herrumbre.
 @Resistente contra agua, vapor y soluciones ácidas y alcalinas.
 @Alta adherencia a los metales.","El producto están formuladas para satisfacer en forma general la lubricación de rodamientos, cojinetes lisos y mecanismos en lubricación de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcción, en transportadores, montacargas, imprentas, motores eléctricos, máquinas-herramientas, etc.",Beige,Suave
-38,Grasa_37,Mineral,Complejo de Poliurea,2.0,120.0,276,235,5.3,315.0,,45,2.4,,400000.0,-15,110,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
+38,Grasa_37,Mineral,Complejo de Poliurea,2,120,276,235,5.3,315,,,45,2.4,,,,,,,,,,,,,,,,,,400000,-15,110,Grasa,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad a la fuerza dinámica y presión.
 @Excelente protección contra el desgaste.
 @Excelente protección contra la corrosión y herrumbre.
 @Resistente contra agua, vapor y soluciones ácidas y alcalinas.
 @Alta adherencia a los metales.","El producto están formuladas para satisfacer en forma general la lubricación de rodamientos, cojinetes lisos y mecanismos en lubricación de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcción, en transportadores, montacargas, imprentas, motores eléctricos, máquinas-herramientas, etc.",Beige,Suave
-39,Grasa_38,Mineral,Complejo de Poliurea,3.0,120.0,236,250,6,315.0,,45,3.2,,350000.0,-10,120,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
+39,Grasa_38,Mineral,Complejo de Poliurea,3,120,236,250,6,315,,,45,3.2,,,,,,,,,,,,,,,,,,350000,-10,120,Grasa,Grasas universal de larga duración.,"El producto es una grasa lubricante para aplicaciones donde los requerimientos técnicos exigen un rendimiento de larga duración, están elaboradas a base de aceites minerales de alta refinación, espesados con un agente especial a base de poliurea compleja y aditivada con un conjunto de componentes que aportan gran rendimiento en condiciones de oxidación, corrosión y carga, logrando con ello excelentes propiedades lubricantes para múltiples aplicaciones.","Alta estabilidad térmica y antioxidante.
 @Excelente estabilidad a la fuerza dinámica y presión.
 @Excelente protección contra el desgaste.
 @Excelente protección contra la corrosión y herrumbre.
 @Resistente contra agua, vapor y soluciones ácidas y alcalinas.
 @Alta adherencia a los metales.","El producto están formuladas para satisfacer en forma general la lubricación de rodamientos, cojinetes lisos y mecanismos en lubricación de tipo universal y es apropiada en todo tipo de industrias tales como:  minera, acerera, textil, papelera, cementera, automotriz, embotelladora y en la construcción, en transportadores, montacargas, imprentas, motores eléctricos, máquinas-herramientas, etc.",Beige,Suave
-40,Grasa_39,Mineral HT,Complejo Sulfonato de Calcio,0.0,1500.0,365,304,4.4,620.0,0.45,60,3.7,,200000.0,-5,190,Grasa de servicio pesado para alta resistencia térmica y larga duración.,"El producto es una grasa lubricante de servicio pesado, espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante. Su configuración de aditivos le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas de temperatura.
+40,Grasa_39,Mineral HT,Complejo Sulfonato de Calcio,0,1500,365,304,4.4,620,0.45,,60,3.7,,1a,,,,,,,,,Pasa,,,,,,,200000,-5,190,Grasa,Grasa de servicio pesado para alta resistencia térmica y larga duración.,"El producto es una grasa lubricante de servicio pesado, espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante. Su configuración de aditivos le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas de temperatura.
 Posee excelentes propiedades sellantes y de resistencia a medios agresivos como emulsiones de aceite, mantiene una protección anticorrosiva y características de soporte de carga y anti-desgaste excep-cionales. ","Alta estabilidad térmica y antioxidante.
 @Excelentes características de lavado por agua y sellado del rodamiento.
 @Excelente estabilidad de trabajo mecánico.
@@ -324,7 +324,7 @@ Posee excelentes propiedades sellantes y de resistencia a medios agresivos como 
 @Alta adherencia a las partes metálicas en movimiento.","Rodamientos expuestos a alta temperatura y cargas mecánicas.
 @Rodamientos de trenes de laminado de metales.
 @Rodamientos en condiciones de extremo lavado por agua.",Ambar,Adherente
-41,Grasa_40,Mineral HT,Complejo Sulfonato de Calcio,1.5,1500.0,300,304,1,620.0,0.45,60,0.3,,200000.0,-5,190,Grasa de servicio pesado para alta resistencia térmica y larga duración.,"El producto es una grasa lubricante de servicio pesado, espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante. Su configuración de aditivos le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas de temperatura.
+41,Grasa_40,Mineral HT,Complejo Sulfonato de Calcio,1.5,1500,300,304,1,620,0.45,,60,0.3,,1a,,,,,,,,,Pasa,,,,,,,200000,-5,190,Grasa,Grasa de servicio pesado para alta resistencia térmica y larga duración.,"El producto es una grasa lubricante de servicio pesado, espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante. Su configuración de aditivos le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas de temperatura.
 Posee excelentes propiedades sellantes y de resistencia a medios agresivos como emulsiones de aceite, mantiene una protección anticorrosiva y características de soporte de carga y anti-desgaste excep-cionales. ","Alta estabilidad térmica y antioxidante.
 @Excelentes características de lavado por agua y sellado del rodamiento.
 @Excelente estabilidad de trabajo mecánico.
@@ -333,7 +333,7 @@ Posee excelentes propiedades sellantes y de resistencia a medios agresivos como 
 @Alta adherencia a las partes metálicas en movimiento.","Rodamientos expuestos a alta temperatura y cargas mecánicas.
 @Rodamientos de trenes de laminado de metales.
 @Rodamientos en condiciones de extremo lavado por agua.",Ambar,Adherente
-42,Grasa_41,Mineral HT,Complejo Sulfonato de Calcio,2.0,1500.0,280,304,1,620.0,0.45,60,0.3,,200000.0,-5,190,Grasa de servicio pesado para alta resistencia térmica y larga duración.,"El producto es una grasa lubricante de servicio pesado, espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante. Su configuración de aditivos le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas de temperatura.
+42,Grasa_41,Mineral HT,Complejo Sulfonato de Calcio,2,1500,280,304,1,620,0.45,,60,0.3,,1a,,,,,,,,,Pasa,,,,,,,200000,-5,190,Grasa,Grasa de servicio pesado para alta resistencia térmica y larga duración.,"El producto es una grasa lubricante de servicio pesado, espesada con complejo sulfonato de calcio el cual por su naturaleza le provee una extraordinaria resistencia térmica y antioxidante. Su configuración de aditivos le permite mantener una excelente lubricidad y soporte de carga extrema en condiciones criticas de temperatura.
 Posee excelentes propiedades sellantes y de resistencia a medios agresivos como emulsiones de aceite, mantiene una protección anticorrosiva y características de soporte de carga y anti-desgaste excep-cionales. ","Alta estabilidad térmica y antioxidante.
 @Excelentes características de lavado por agua y sellado del rodamiento.
 @Excelente estabilidad de trabajo mecánico.
@@ -342,7 +342,7 @@ Posee excelentes propiedades sellantes y de resistencia a medios agresivos como 
 @Alta adherencia a las partes metálicas en movimiento.","Rodamientos expuestos a alta temperatura y cargas mecánicas.
 @Rodamientos de trenes de laminado de metales.
 @Rodamientos en condiciones de extremo lavado por agua.",Ambar,Adherente
-43,Grasa_42,,Complejo de Litio,2.0,320.0,270,304,2.1,900.0,0.4,60,1.2,,300000.0,-15,150,Grasa para lubricación de equipo pesado con bisulfuro de molibdeno.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua, alto soporte de carga extrema y lubricantes solidos. 
+43,Grasa_42,,Complejo de Litio,2,320,270,304,2.1,900,0.4,,60,1.2,,1a,,,,,,,,,,,,,,,,300000,-15,150,Grasa,Grasa para lubricación de equipo pesado con bisulfuro de molibdeno.,"El producto es una grasa lubricante de gran adherencia y consistencia, con excelente resistencia al lavado de agua, alto soporte de carga extrema y lubricantes solidos. 
 Los aceites y la base de jabón complejo de litio especial proporciona una excelente estabilidad mecánica y térmica permitiendo trabajar bajo condiciones extremas de baja y alta temperatura. Su paquete de aditivos de extrema presión y anti-desgaste le permiten soportar las cargas más extremas de equipos fuera de mina además de proporcionar protección anticorrosiva tanto a aleaciones ferrosas como de cobre. 
 Contiene 5 % de lubricantes sólidos para brindar una mayor resistencia a la película lubricante en condiciones extremas de vibración y carga.","Alta estabilidad térmica y anti-oxidante.
 @Alta resistencia a extrema presión.
@@ -352,25 +352,25 @@ Contiene 5 % de lubricantes sólidos para brindar una mayor resistencia a la pel
 @Chasis y sistemas centralizados en palas mecánicas.
 @Quinta rueda en camiones de carga.
 @Rodamientos expuestos a alta carga y vibración.",Negro,Suave
-44,Grasa_43,Mineral HC,Complejo de Litio,0.0,220.0,350 - 370,200,8,315.0,0.5,45,4,,,-20,90,Grasa lubricante para elementos mecánicos,"El producto es una grasa formulada con aceite base mineral, un espesante de Complejo de Litio y aditivos seleccionados que  dan como resultado excelente estabilidad mecánica,  térmica y una lubricación de larga vida.
+44,Grasa_43,Mineral HC,Complejo de Litio,0,220,350 - 370,200,8,315,0.5,,45,4,,,,,,,,,,,,,,,,,,,-20,90,Grasa,Grasa lubricante para elementos mecánicos,"El producto es una grasa formulada con aceite base mineral, un espesante de Complejo de Litio y aditivos seleccionados que  dan como resultado excelente estabilidad mecánica,  térmica y una lubricación de larga vida.
 Mantiene protección anticorrosiva y características de soporte de carga/anti-desgaste extraordinarias por largos periodos","Larga vida de lubricación.
 @Amplio rango de temperaturas de operación.
 @Excelente capacidad anti-desgaste.
 @Excelente protección anti-corrosiva.
 @Alta estabilidad térmica y antioxidante.",Para  lubricar mecanismos de cerraduras sujetas a fricción deslizante con componentes metálicos y plásticos,Beige,Suave Adherente
-45,Grasa_44,Mineral HC,Complejo de Litio,1.0,220.0,310 - 330,280,5,315.0,0.5,45,3,,,-20,90,Grasa lubricante para elementos mecánicos,"El producto es una grasa formulada con aceite base mineral, un espesante de Complejo de Litio y aditivos seleccionados que  dan como resultado excelente estabilidad mecánica,  térmica y una lubricación de larga vida.
+45,Grasa_44,Mineral HC,Complejo de Litio,1,220,310 - 330,280,5,315,0.5,,45,3,,,,,,,,,,,,,,,,,,,-20,90,Grasa,Grasa lubricante para elementos mecánicos,"El producto es una grasa formulada con aceite base mineral, un espesante de Complejo de Litio y aditivos seleccionados que  dan como resultado excelente estabilidad mecánica,  térmica y una lubricación de larga vida.
 Mantiene protección anticorrosiva y características de soporte de carga/anti-desgaste extraordinarias por largos periodos","Larga vida de lubricación.
 @Amplio rango de temperaturas de operación.
 @Excelente capacidad anti-desgaste.
 @Excelente protección anti-corrosiva.
 @Alta estabilidad térmica y antioxidante.",Para  lubricar mecanismos de cerraduras sujetas a fricción deslizante con componentes metálicos y plásticos,Beige,Suave Adherente
-46,Grasa_45,Mineral HC,Complejo de Litio,2.0,220.0,265 - 290,280,5,315.0,0.5,45,3,,,-20,90,Grasa lubricante para elementos mecánicos,"El producto es una grasa formulada con aceite base mineral, un espesante de Complejo de Litio y aditivos seleccionados que  dan como resultado excelente estabilidad mecánica,  térmica y una lubricación de larga vida.
+46,Grasa_45,Mineral HC,Complejo de Litio,2,220,265 - 290,280,5,315,0.5,,45,3,,,,,,,,,,,,,,,,,,,-20,90,Grasa,Grasa lubricante para elementos mecánicos,"El producto es una grasa formulada con aceite base mineral, un espesante de Complejo de Litio y aditivos seleccionados que  dan como resultado excelente estabilidad mecánica,  térmica y una lubricación de larga vida.
 Mantiene protección anticorrosiva y características de soporte de carga/anti-desgaste extraordinarias por largos periodos","Larga vida de lubricación.
 @Amplio rango de temperaturas de operación.
 @Excelente capacidad anti-desgaste.
 @Excelente protección anti-corrosiva.
 @Alta estabilidad térmica y antioxidante.",Para  lubricar mecanismos de cerraduras sujetas a fricción deslizante con componentes metálicos y plásticos,Beige,Suave Adherente
-47,Grasa_46,Mineral USP,,1.0,40.0,310 - 340,> 230,< 15,250.0,,> 40,< 5,,1000000.0,-10,160,Grasa especial para alta velocidad en la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones de alta velocidad en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia. 
+47,Grasa_46,Mineral USP,,1,40,310 - 340,> 230,< 15,250,,,> 40,< 5,,,,,,,,,,,,,,,,,,1000000,-10,160,Grasa,Grasa especial para alta velocidad en la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones de alta velocidad en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia. 
 Los ingredientes con los que se utilizan en su elaboración cumplen con las especificaciones marcadas por la FDA como lubricante para contacto accidental con alimentos según CFR (Code of Federal Regulations, 21 Parts 170-19 Food additives and related regulations). ","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -379,7 +379,7 @@ Los ingredientes con los que se utilizan en su elaboración cumplen con las espe
 @Es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.
 Resistencia a la humedad.","El producto esta especialmente diseñada para la lubricación de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos.",Blanco,Suave
-48,Grasa_47,Mineral USP,,2.0,40.0,265 - 295,> 230,< 15,250.0,,> 40,< 5,,1000000.0,-10,160,Grasa especial para alta velocidad en la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones de alta velocidad en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia. 
+48,Grasa_47,Mineral USP,,2,40,265 - 295,> 230,< 15,250,,,> 40,< 5,,,,153194,,,,,,,,,,,,,,1000000,-10,160,Grasa,Grasa especial para alta velocidad en la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones de alta velocidad en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia. 
 Los ingredientes con los que se utilizan en su elaboración cumplen con las especificaciones marcadas por la FDA como lubricante para contacto accidental con alimentos según CFR (Code of Federal Regulations, 21 Parts 170-19 Food additives and related regulations). ","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -388,7 +388,7 @@ Los ingredientes con los que se utilizan en su elaboración cumplen con las espe
 @Es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.
 Resistencia a la humedad.","El producto esta especialmente diseñada para la lubricación de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos.",Blanco,Suave
-49,Grasa_22,Mineral USP,,3.0,40.0,220 - 250,> 230,< 15,250.0,,> 40,< 5,,900000.0,-5,160,Grasa especial para alta velocidad en la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones de alta velocidad en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia. 
+49,Grasa_22,Mineral USP,,3,40,220 - 250,> 230,< 15,250,,,> 40,< 5,,,,,,,,,,,,,,,,,,900000,-5,160,Grasa,Grasa especial para alta velocidad en la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones de alta velocidad en la industria alimenticia, es resistente a condiciones de humedad, vapores y desinfectantes utilizados en la industria alimenticia. 
 Los ingredientes con los que se utilizan en su elaboración cumplen con las especificaciones marcadas por la FDA como lubricante para contacto accidental con alimentos según CFR (Code of Federal Regulations, 21 Parts 170-19 Food additives and related regulations). ","Evita la formación de grumos en rodamientos.
 @Evita el escurrimiento inhibiendo la contaminación.
 @Disminuye el consumo de lubricante.
@@ -397,13 +397,13 @@ Los ingredientes con los que se utilizan en su elaboración cumplen con las espe
 @Es poco reactiva y totalmente neutra a materiales orgánicos e inorgánicos, metales ferrosos, blandos, plásticos y cauchos.
 Resistencia a la humedad.","El producto esta especialmente diseñada para la lubricación de rodamientos de alta velocidad en los cuales eventualmente se pudiera tener perdida de lubricante y este ultimo entrar en contacto con el alimento.
 @El producto tiene excelente desempeño en la lubricación de guías, correderas, bujes y elementos mecánicos.",Blanco,Suave
-50,Grasa_48,Semi-Sintetico,Bentonita,1.0,220.0,320,304,8,315.0,0.5,40,3,,750000.0,-5,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia.
+50,Grasa_48,Semi-Sintetico,Bentonita,1,220,320,304,8,315,0.5,,40,3,,,,141297,,,,,,,,,,,,,,750000,-5,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia.
 El producto está aprobada por NSF como lubricante tipo H1 para contacto incidental con alimentos.","Excelente protección contra el desgaste.
 @Buena resistencia al lavado por agua, vapores y desinfectantes.
 @Excelente adherencia a partes metálicas en movimiento.
 @Gran resistencia a la corrosión y herrumbre.","Lubricación de rodamientos, bujes y otros elementos en general en la industria alimenticia donde existe la posibilidad de contacto incidental con alimentos.
 @Lubricación guías, correderas, bujes y elementos mecánicos de la industria de inyección en plástico.",Blanco,Suave
-51,Grasa_49,Semi-Sintetico,Bentonita,1.5,220.0,300,304,8,315.0,0.5,40,3,,750000.0,-5,160,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia.
+51,Grasa_49,Semi-Sintetico,Bentonita,1.5,220,300,304,8,315,0.5,,40,3,,,,141298,,,,,,,,,,,,,,750000,-5,160,Grasa,Grasa especial para la industria alimenticia y farmacéutica.,"El producto es una grasa lubricante para aplicaciones generales en la industria alimenticia.
 El producto está aprobada por NSF como lubricante tipo H1 para contacto incidental con alimentos.","Excelente protección contra el desgaste.
 @Buena resistencia al lavado por agua, vapores y desinfectantes.
 @Excelente adherencia a partes metálicas en movimiento.
