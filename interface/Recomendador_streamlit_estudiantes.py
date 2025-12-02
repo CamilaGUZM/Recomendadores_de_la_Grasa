@@ -1,4 +1,7 @@
 
+import os
+os.chdir('..')
+
 import pandas as pd
 import numpy as np
 
@@ -31,25 +34,25 @@ def load_and_preprocess_data():
     """Cargar y preprocesar datos"""
     try:
         # Cargar datos
-        df = pd.read_csv("data/datos_grasas_Tec.csv", encoding="latin1")
+        df=pd.read_csv("data/datos_grasas_Tec_limpios.csv")
         range_columns = ["Punto de Gota, °C", "Estabilidad Mecánica, %", "Carga Timken Ok, lb", "Resistencia al Lavado por Agua a 80°C, %"]
         categorical_columns = ["Aceite Base","Espesante","Clasificacion ISO 6743-9","color","textura"]
-        preprocessor = Pipeline(steps=[
+        process = Pipeline(steps=[
             ("To have columns names needed", CheckColumnNames()),
             ("To change unkown data to zeros", UnknownToZero("Grado NLGI Consistencia")),
             ("To fix ranges and single values", FixRanges("Penetración de Cono a 25°C, 0.1mm")),
-            ("To fix limits of mixed type columns", DefineLimits(columns=range_columns, margin=10, verbose = False)),
+            ("To define limits", DefineLimits(columns=range_columns, margin=10, verbose=False)),
             ("OneHot_categoricals", OneHotCodificador(columns=categorical_columns,drop_original=True,dtype=int)),
-            ("To fill NaNs with zeros", FillNaNsWithCeros()),
             ("Vectorizar subtitulo", VectorizarTexto("subtitulo")),
             ("Vectorizar descripcion", VectorizarTexto("descripcion")),
             ("Vectorizar beneficios", VectorizarTexto("beneficios")),
             ("Vectorizar aplicaciones", VectorizarTexto("aplicaciones")),
+            ("To fill NaNs with zeros", FillNaNsWithCeros()),
             ('MinMax', ColumnTransformer(transformers=[('MinMax', MinMaxScaler(), slice(1,None))]))
         ])
         X_processed=preprocessor.fit_transform(df)
 
-        return df, preprocessor, X_processed, numeric_cols, categorical_cols
+        return df, preprocessor, X_processed, range_columns, categorical_cols
         
     except Exception as e:
         st.error(f"Error al cargar los datos: {str(e)}")
@@ -70,6 +73,7 @@ def create_lubricant_from_input(input_data, df_template):
 def recommend_similar_lubricant(new_lubricant_data, df, preprocessor, X_processed, top_k=5):
     """Recomendar grasas similares"""
     # Here new_lubricant_data will be transform
+    new_lubricant_processed=preprocessor.transform(new_lubricant_data)
     results = reccoseno(new_lubricant_processed, df, X_processed, top_k)
     
     return results
